@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "Yesterday, a major U.S. bank reported earnings that beat expectations, but its stock still closed lower.",
+    "subQuestion": "What is the most likely reason for this reaction?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Investors expected an even stronger beat and were disappointed by the guidance.",
+        "isCorrect": true,
+        "explanation": "Stocks can drop after an earnings beat if investors expected even better results or were disappointed by weak guidance. Markets are forward-looking, so cautious commentary on soft outlooks often outweigh solid historical results."
+      },
+      {
+        "id": "B",
+        "text": "The bank announced a dividend increase, which signals lower growth opportunities.",
+        "isCorrect": false,
+        "explanation": "A dividend increase is generally seen as a sign of financial strength and confidence in future cash flow, especially for banks. While it's true that very high payouts can suggest limited reinvestment opportunities, that interpretation is more relevant for high-growth tech companies than for mature financial institutions. In most cases, investors welcome dividend increases, and they are not typically the cause of a post-earnings sell-off."
+      },
+      {
+        "id": "C",
+        "text": "The market misunderstood the earnings report due to complex accounting.",
+        "isCorrect": false,
+        "explanation": "Bank earnings can be complex, but widespread misunderstanding due to accounting is rare, especially among institutional investors who closely track these reports. If there were confusion, it would likely lead to temporary volatility, not a sustained drop in the stock. Moreover, if the earnings result clearly beat expectations, the numbers were at least broadly understood — so a market reaction driven purely by confusion is unlikely."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "A tech startup announces it has secured a major partnership with a leading cloud services provider. The stock jumps 15% on the news.",
+    "subQuestion": "Which factor is most likely driving this market reaction?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Investors believe the partnership will accelerate revenue growth and validate the startup’s business model.",
+        "isCorrect": true,
+        "explanation": "Strategic partnerships with established players often signal future growth potential and market validation, especially for startups. Investors are reacting to the anticipated increase in credibility, sales channels, or operational scale, which can drive higher future cash flows."
+      },
+      {
+        "id": "B",
+        "text": "The market expects the startup to receive a one-time cash payment from the partner, boosting short-term profits.",
+        "isCorrect": false,
+        "explanation": "While partnerships may involve some financial incentives, the market typically reacts more to long-term implications than short-term gains. A one-time cash infusion would not justify a large move unless it materially altered the company’s runway or strategy."
+      },
+      {
+        "id": "C",
+        "text": "Investors are short covering after the announcement triggered a margin call.",
+        "isCorrect": false,
+        "explanation": "While short covering can amplify a rally, it's unlikely to be the primary reason for a sharp upward move in response to fundamentally positive news. The core driver here is a reevaluation of future prospects, not technical positioning alone."
+      }
+    ]
+  }
+]
