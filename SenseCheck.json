@@ -48,5 +48,205 @@
         "explanation": "While short covering can amplify a rally, it's unlikely to be the primary reason for a sharp upward move in response to fundamentally positive news. The core driver here is a reevaluation of future prospects, not technical positioning alone."
       }
     ]
-  }
+  },
+  {
+  "id": "2025-05-28",
+  "question": "A large-cap utility company with a stable dividend and low earnings volatility has seen its stock fall sharply after a sudden rise in long-term Treasury yields.",
+  "subQuestion": "What is the most likely reason for the stock’s decline?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Investors are rotating out of defensive sectors as economic growth accelerates.",
+      "isCorrect": false,
+      "explanation": "While sector rotation can occur in early-cycle recoveries, this specific drop is linked to rising Treasury yields. A general growth-driven rotation might hurt utilities, but the key driver here is the change in discount rates, not macro growth expectations alone."
+    },
+    {
+      "id": "B",
+      "text": "Higher yields make bonds more attractive relative to income-generating equities like utilities.",
+      "isCorrect": true,
+      "explanation": "Utility stocks are often valued for their dividend yields, making them sensitive to interest rate changes. When long-term Treasury yields rise, fixed-income alternatives become more attractive, and the present value of future cash flows from utilities declines, causing their stock prices to fall."
+    },
+    {
+      "id": "C",
+      "text": "The company’s debt costs immediately rose due to the higher Treasury yields.",
+      "isCorrect": false,
+      "explanation": "While rising rates can affect future borrowing costs, most corporate debt is fixed-rate. The impact on actual financing costs is gradual, not immediate. The stock drop is more directly tied to valuation pressures from higher discount rates rather than sudden changes in cost of capital."
+    }
+  ]
+},
+  {
+  "id": "2025-05-29",
+  "question": "An investor is evaluating two high-growth tech stocks. One is cash flow positive with modest revenue growth, and the other is burning cash but growing revenue rapidly.",
+  "subQuestion": "In a rising interest rate environment, which stock is more likely to see valuation pressure, and why?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The cash-burning company, because its value depends more on distant future cash flows.",
+      "isCorrect": true,
+      "explanation": "Rising rates increase discount rates, which reduce the present value of future cash flows. Companies with distant, uncertain profitability—like cash-burning firms—are more affected than those with near-term cash generation."
+    },
+    {
+      "id": "B",
+      "text": "The profitable company, because it already has cash flows to discount.",
+      "isCorrect": false,
+      "explanation": "While all companies are affected by rising rates, profitable firms have less sensitivity because their valuations rely more on near-term earnings. The market penalizes long-duration assets more—those with cash flows far in the future."
+    },
+    {
+      "id": "C",
+      "text": "Both equally, because they are in the same sector and interest rates affect all stocks.",
+      "isCorrect": false,
+      "explanation": "Sector trends matter, but duration risk is a key differentiator. High-growth, cash-burning companies behave more like long-duration bonds, making them more sensitive to rate hikes than firms generating near-term cash flows."
+    }
+  ]
+},
+  {
+  "id": "2025-05-30",
+  "question": "A consumer goods company beats earnings expectations, citing strong pricing power. However, volumes declined year-over-year.",
+  "subQuestion": "What risk might investors begin to worry about despite the earnings beat?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The company is sacrificing margin for growth.",
+      "isCorrect": false,
+      "explanation": "A decline in volume coupled with strong pricing actually indicates the opposite—margins are likely being maintained or improved. The concern isn’t about margin sacrifice."
+    },
+    {
+      "id": "B",
+      "text": "The company may be hitting demand elasticity limits, risking future volume declines.",
+      "isCorrect": true,
+      "explanation": "Pricing power supports short-term margins, but declining volumes suggest consumers may be pushing back. If price increases eventually erode demand, growth could stall. Investors may question the sustainability of this strategy."
+    },
+    {
+      "id": "C",
+      "text": "Inflation is eroding profits, regardless of pricing strategy.",
+      "isCorrect": false,
+      "explanation": "If the company beat earnings and cited strong pricing power, it’s managing inflation well. The issue here isn’t cost pressure, but whether the current strategy is sustainable if volume keeps falling."
+    }
+  ]
+},
+  {
+  "id": "2025-05-31",
+  "question": "A hedge fund manager is long oil producers and short airlines. Suddenly, crude prices plunge.",
+  "subQuestion": "How would this affect the performance of the portfolio?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The portfolio would likely lose money, since both positions would drop.",
+      "isCorrect": false,
+      "explanation": "While oil producers would suffer from falling prices, airlines—being major fuel consumers—would benefit. The short position in airlines would likely lose value, offsetting the oil losses."
+    },
+    {
+      "id": "B",
+      "text": "The portfolio could underperform if airline stocks rally sharply while oil producers fall.",
+      "isCorrect": true,
+      "explanation": "This is a classic pair trade, betting on relative performance. If oil falls and airlines rally, both legs go against the fund. The portfolio could suffer losses from both sides of the trade."
+    },
+    {
+      "id": "C",
+      "text": "The portfolio would be hedged, since gains in airlines would offset oil losses.",
+      "isCorrect": false,
+      "explanation": "In theory, yes—but the fund is short airlines. A rally in airline stocks would hurt, not help. The portfolio isn’t hedged; it’s directional on oil outperforming airlines, and this move goes against it."
+    }
+  ]
+},
+ {
+  "id": "2025-06-01",
+  "question": "A biotech company announces FDA approval for a major drug, but the stock barely moves.",
+  "subQuestion": "What is the most likely explanation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The approval was already priced in by the market.",
+      "isCorrect": true,
+      "explanation": "If the market had high confidence in approval, expectations were likely embedded in the stock price. When widely anticipated news becomes official, the reaction is muted—classic “buy the rumor, sell the news” behavior."
+    },
+    {
+      "id": "B",
+      "text": "The market is uncertain about the drug’s manufacturing costs.",
+      "isCorrect": false,
+      "explanation": "Manufacturing questions may arise later, but they rarely suppress the immediate stock reaction to FDA news. Approval tends to dominate early sentiment unless negative details are released."
+    },
+    {
+      "id": "C",
+      "text": "Investors misunderstood the news and expected rejection.",
+      "isCorrect": false,
+      "explanation": "Major investors closely track drug pipelines. Misunderstanding such pivotal news is rare and unlikely to explain the flat reaction if the event was well-telegraphed."
+    }
+  ]
+}, 
+  {
+  "id": "2025-06-02",
+  "question": "A pension fund is reviewing its asset allocation and considers reducing its equity exposure in favor of long-duration bonds.",
+  "subQuestion": "Which market environment most justifies this shift?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A high-growth, low-inflation environment.",
+      "isCorrect": false,
+      "explanation": "In such an environment, equities often outperform as growth supports earnings and low inflation supports multiples. It’s not an ideal time to favor bonds over stocks."
+    },
+    {
+      "id": "B",
+      "text": "A deflationary environment with falling interest rates.",
+      "isCorrect": true,
+      "explanation": "In deflation, future cash flows become more valuable. Long-duration bonds gain in price as yields fall, offering capital appreciation. Equities may struggle under earnings pressure, making bonds more attractive."
+    },
+    {
+      "id": "C",
+      "text": "An environment with rising inflation expectations.",
+      "isCorrect": false,
+      "explanation": "Rising inflation hurts bonds due to declining real returns and price losses as yields rise. In such scenarios, inflation-protected securities or real assets are typically preferred."
+    }
+  ]
+},
+  {
+  "id": "2025-06-03",
+  "question": "A major retailer reports strong quarterly sales growth, but its gross margin contracts significantly.",
+  "subQuestion": "What concern might this raise for investors?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The company is cutting prices to drive volume, which may not be sustainable.",
+      "isCorrect": true,
+      "explanation": "A shrinking gross margin alongside rising sales often indicates discounting or promotional activity. Investors may worry that sales growth is being ‘bought’ through lower prices, which could hurt long-term profitability."
+    },
+    {
+      "id": "B",
+      "text": "Inventory levels are too low, creating a risk of stockouts.",
+      "isCorrect": false,
+      "explanation": "Gross margin contraction is more directly tied to pricing and cost inputs, not inventory levels. While inventory matters, the key issue here is profitability under pressure, not supply shortages."
+    },
+    {
+      "id": "C",
+      "text": "The company is likely increasing dividends, which reduces retained earnings.",
+      "isCorrect": false,
+      "explanation": "Dividend policy affects capital allocation, not gross margin. There’s no clear link between gross margin contraction and dividends, so this wouldn’t be a primary investor concern in this scenario."
+    }
+  ]
+},
+  {
+  "id": "2025-06-04",
+  "question": "An index fund tracking the S&P 500 underperforms an actively managed large-cap fund during a market downturn.",
+  "subQuestion": "What might explain the active fund’s relative outperformance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The active fund held a larger weight in tech stocks, which are volatile in downturns.",
+      "isCorrect": false,
+      "explanation": "Tech stocks tend to amplify losses in downturns due to their high growth expectations. Overweighting tech would likely hurt, not help, performance during a broad sell-off."
+    },
+    {
+      "id": "B",
+      "text": "The active fund held more cash and defensive stocks, reducing downside exposure.",
+      "isCorrect": true,
+      "explanation": "Active managers can tactically shift into cash or defensives, like healthcare or consumer staples, in anticipation of or during market stress. This flexibility can reduce losses relative to fully invested passive funds."
+    },
+    {
+      "id": "C",
+      "text": "The S&P 500 rebalanced more frequently, leading to higher turnover costs.",
+      "isCorrect": false,
+      "explanation": "The S&P 500 is a low-turnover index that rebalances quarterly. Turnover costs are minimal and not a primary factor in short-term underperformance during downturns. Active positioning is the more likely explanation."
+    }
+  ]
+}
 ]
