@@ -258,14 +258,14 @@
 {
   "id": "week9-question",
   "week": 9,
-  "question": "Why are high-growth tech stocks often called 'long-duration' assets?",
+  "question": "Why are high-growth tech stocks often called long-duration assets?",
   "subQuestion": "This is especially relevant when interest rates rise.",
   "options": [
     {
       "id": "A",
       "text": "They have long product development cycles.",
       "isCorrect": false,
-      "explanation": "While some may, 'duration' here refers to cash flow timing, not development time."
+      "explanation": "While some may, duration here refers to cash flow timing, not development time."
     },
     {
       "id": "B",
@@ -770,14 +770,14 @@
 {
   "id": "week25-question",
   "week": 25,
-  "question": "What does the term 'flight to quality' refer to?",
+  "question": "What does the term flight to quality refer to?",
   "subQuestion": "It often occurs during financial stress or uncertainty.",
   "options": [
     {
       "id": "A",
       "text": "Investors buying more commodities.",
       "isCorrect": false,
-      "explanation": "Commodities may be inflation hedges, but they are not considered 'quality' in a risk-off sense."
+      "explanation": "Commodities may be inflation hedges, but they are not considered quality in a risk-off sense."
     },
     {
       "id": "B",
@@ -789,7 +789,7 @@
       "id": "C",
       "text": "Buying stocks of luxury goods companies.",
       "isCorrect": false,
-      "explanation": "'Quality' in this context refers to credit safety and stability, not branding."
+      "explanation": "Quality in this context refers to credit safety and stability, not branding."
     },
     {
       "id": "D",
@@ -802,7 +802,7 @@
 {
   "id": "week26-question",
   "week": 26,
-  "question": "What is 'duration' in bond investing?",
+  "question": "What is duration in bond investing?",
   "subQuestion": "It’s a key metric for interest rate sensitivity.",
   "options": [
     {
@@ -1026,7 +1026,7 @@
   {
     "id": "week33-question",
     "week": 33,
-    "question": "What does 'alpha' refer to in portfolio management?",
+    "question": "What does alpha refer to in portfolio management?",
     "subQuestion": "It complements beta in risk-adjusted performance.",
     "options": [
       {
@@ -1154,7 +1154,7 @@
   {
     "id": "week37-question",
     "week": 37,
-    "question": "What does 'short squeezing' refer to?",
+    "question": "What does short squeezing refer to?",
     "subQuestion": "It’s a notable force in certain volatile stocks.",
     "options": [
       {
