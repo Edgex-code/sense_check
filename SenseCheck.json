@@ -94,7 +94,7 @@
         "explanation": "Market trends can affect sentiment, but they don’t explain a sharp stock-specific decline if earnings matched."
       }
     ]
-  }
+  },
   {
   "id": "week4-question",
   "week": 4,
@@ -158,7 +158,7 @@
       "explanation": "Yields don’t directly affect electricity usage, so this is not a relevant reason for price declines."
     }
   ]
-}
+},
 {
   "id": "week6-question",
   "week": 6,
@@ -254,7 +254,7 @@
       "explanation": "While ESG sentiment exists, short-term price moves are more likely linked to expected earnings and macro factors."
     }
   ]
-}
+},
 {
   "id": "week9-question",
   "week": 9,
@@ -318,7 +318,7 @@
       "explanation": "Buybacks and stock splits are unrelated events — splits change share count, not capital allocation."
     }
   ]
-}
+},
 {
   "id": "week11-question",
   "week": 11,
@@ -446,7 +446,7 @@
       "explanation": "Earnings are central to valuation. Layoffs during good results invite questions about the outlook."
     }
   ]
-}
+},
 {
   "id": "week15-question",
   "week": 15,
@@ -638,7 +638,7 @@
       "explanation": "Outperformance implies proactive positioning, not ignoring market trends."
     }
   ]
-}
+},
 {
   "id": "week21-question",
   "week": 21,
@@ -798,7 +798,7 @@
       "explanation": "Emerging markets are riskier and not where capital typically flows in periods of stress."
     }
   ]
-}
+},
 {
   "id": "week26-question",
   "week": 26,
@@ -958,7 +958,7 @@
       "explanation": "REITs can offer partial inflation protection but aren’t as directly tied to inflation as TIPS."
     }
   ]
-}
+},
 [
   {
     "id": "week31-question",
