@@ -32,7 +32,7 @@
     ]
   },
   {
-    "id": "week2-question", 
+    "id": "week2-question",
     "week": 2,
     "question": "What happens to bond prices when interest rates rise?",
     "subQuestion": "Understanding this relationship is crucial for fixed-income investing.",
@@ -62,5 +62,1608 @@
         "explanation": "While different bonds may react differently in magnitude, the direction is generally the same - prices fall when rates rise."
       }
     ]
+  },
+  {
+    "id": "week3-question",
+    "week": 3,
+    "question": "A company reports earnings that match analyst expectations, yet the stock drops 5%.",
+    "subQuestion": "What is a likely reason for this reaction?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The company raised its dividend.",
+        "isCorrect": false,
+        "explanation": "A dividend increase is typically viewed as a positive signal about financial strength."
+      },
+      {
+        "id": "B",
+        "text": "The company provided weak forward guidance.",
+        "isCorrect": true,
+        "explanation": "Even if earnings match expectations, cautious or negative guidance can drive the stock lower as markets are forward-looking."
+      },
+      {
+        "id": "C",
+        "text": "The company repurchased shares during the quarter.",
+        "isCorrect": false,
+        "explanation": "Share buybacks are often welcomed by investors, especially if seen as a sign of undervaluation or excess cash flow."
+      },
+      {
+        "id": "D",
+        "text": "The overall market rose on the day.",
+        "isCorrect": false,
+        "explanation": "Market trends can affect sentiment, but they don’t explain a sharp stock-specific decline if earnings matched."
+      }
+    ]
   }
+  {
+  "id": "week4-question",
+  "week": 4,
+  "question": "A central bank raises interest rates by 0.50% to combat inflation.",
+  "subQuestion": "What is the expected short-term impact on equity markets?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Equity markets rise due to increased bank profitability.",
+      "isCorrect": false,
+      "explanation": "While banks may benefit from higher rates, the broader market tends to decline due to costlier borrowing and lower future earnings."
+    },
+    {
+      "id": "B",
+      "text": "Equity markets decline due to tighter financial conditions.",
+      "isCorrect": true,
+      "explanation": "Higher interest rates raise borrowing costs, reduce corporate profits, and lower valuations, all of which can weigh on stocks."
+    },
+    {
+      "id": "C",
+      "text": "Equity markets rally due to confidence in monetary policy.",
+      "isCorrect": false,
+      "explanation": "Confidence in central banks may help over the long term, but the immediate effect of rate hikes is usually bearish for equities."
+    },
+    {
+      "id": "D",
+      "text": "There is no effect on equity markets.",
+      "isCorrect": false,
+      "explanation": "Interest rate decisions are key macro drivers and usually impact markets meaningfully, especially large hikes."
+    }
+  ]
+},
+{
+  "id": "week5-question",
+  "week": 5,
+  "question": "A utility stock falls sharply following a rise in long-term Treasury yields.",
+  "subQuestion": "Why are utility stocks particularly sensitive to interest rate changes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Utilities carry large amounts of variable-rate debt.",
+      "isCorrect": false,
+      "explanation": "Most utility debt is fixed-rate, so immediate interest costs don't surge. The rate sensitivity is more about valuation."
+    },
+    {
+      "id": "B",
+      "text": "Higher yields make their dividends less attractive relative to bonds.",
+      "isCorrect": true,
+      "explanation": "Utility stocks are income-generating, so when bond yields rise, their relative appeal diminishes, pressuring stock prices."
+    },
+    {
+      "id": "C",
+      "text": "Utilities are growth stocks hurt by inflation.",
+      "isCorrect": false,
+      "explanation": "Utilities are not typically classified as growth stocks; they’re defensives prized for income, not capital gains."
+    },
+    {
+      "id": "D",
+      "text": "Rising yields reduce electricity demand.",
+      "isCorrect": false,
+      "explanation": "Yields don’t directly affect electricity usage, so this is not a relevant reason for price declines."
+    }
+  ]
+}
+{
+  "id": "week6-question",
+  "week": 6,
+  "question": "An investor switches from growth stocks to value stocks during a bear market.",
+  "subQuestion": "Why might value stocks be preferred in this environment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Value stocks are more sensitive to interest rates.",
+      "isCorrect": false,
+      "explanation": "Growth stocks are generally more sensitive to rates due to their longer duration of expected cash flows."
+    },
+    {
+      "id": "B",
+      "text": "Value stocks often have more stable cash flows and dividends.",
+      "isCorrect": true,
+      "explanation": "In bear markets, investors seek safety in predictable earnings and income streams, which value stocks often provide."
+    },
+    {
+      "id": "C",
+      "text": "Growth stocks are easier to value in downturns.",
+      "isCorrect": false,
+      "explanation": "Growth stock valuations become harder to justify during downturns as future earnings become more uncertain."
+    },
+    {
+      "id": "D",
+      "text": "Value stocks have more exposure to volatile tech sectors.",
+      "isCorrect": false,
+      "explanation": "Tech stocks are typically classified as growth, not value, and tend to be more volatile during downturns."
+    }
+  ]
+},
+{
+  "id": "week7-question",
+  "week": 7,
+  "question": "A tech startup announces a partnership with a major cloud provider, and its stock jumps 20%.",
+  "subQuestion": "What’s the most likely investor interpretation of this news?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The startup received a large upfront payment.",
+      "isCorrect": false,
+      "explanation": "While payments may occur, a 20% move reflects longer-term implications, not one-time gains."
+    },
+    {
+      "id": "B",
+      "text": "The market views the partnership as validation of the startup’s business model.",
+      "isCorrect": true,
+      "explanation": "Such partnerships provide credibility, access to distribution, and potential scale — key for growth expectations."
+    },
+    {
+      "id": "C",
+      "text": "Investors expect a merger announcement soon.",
+      "isCorrect": false,
+      "explanation": "No merger was announced; speculation alone wouldn’t likely drive such a sharp and justified move."
+    },
+    {
+      "id": "D",
+      "text": "The cloud provider is buying the startup outright.",
+      "isCorrect": false,
+      "explanation": "That would be acquisition news, not a partnership. The price jump is more consistent with optimism about future sales."
+    }
+  ]
+},
+{
+  "id": "week8-question",
+  "week": 8,
+  "question": "A major oil company announces record profits but its stock falls.",
+  "subQuestion": "Why might this happen despite strong earnings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Investors are concerned about future oil prices falling.",
+      "isCorrect": true,
+      "explanation": "Markets are forward-looking; if future energy demand or pricing looks uncertain, the stock may drop even after strong results."
+    },
+    {
+      "id": "B",
+      "text": "The company paid off debt.",
+      "isCorrect": false,
+      "explanation": "Reducing debt is usually viewed positively and wouldn’t typically cause a stock decline."
+    },
+    {
+      "id": "C",
+      "text": "The company missed earnings expectations.",
+      "isCorrect": false,
+      "explanation": "The scenario states it posted record profits, which suggests it beat expectations."
+    },
+    {
+      "id": "D",
+      "text": "Shareholders dislike fossil fuel companies.",
+      "isCorrect": false,
+      "explanation": "While ESG sentiment exists, short-term price moves are more likely linked to expected earnings and macro factors."
+    }
+  ]
+}
+{
+  "id": "week9-question",
+  "week": 9,
+  "question": "Why are high-growth tech stocks often called 'long-duration' assets?",
+  "subQuestion": "This is especially relevant when interest rates rise.",
+  "options": [
+    {
+      "id": "A",
+      "text": "They have long product development cycles.",
+      "isCorrect": false,
+      "explanation": "While some may, 'duration' here refers to cash flow timing, not development time."
+    },
+    {
+      "id": "B",
+      "text": "Their cash flows are expected far in the future.",
+      "isCorrect": true,
+      "explanation": "These firms often have low current profits but high future expectations, so their value is sensitive to discount rate changes."
+    },
+    {
+      "id": "C",
+      "text": "They take longer to list on exchanges.",
+      "isCorrect": false,
+      "explanation": "IPO timing isn't relevant to the financial concept of duration."
+    },
+    {
+      "id": "D",
+      "text": "They carry high levels of long-term debt.",
+      "isCorrect": false,
+      "explanation": "Many tech firms are equity-financed. Duration refers to the time profile of earnings, not liabilities."
+    }
+  ]
+},
+{
+  "id": "week10-question",
+  "week": 10,
+  "question": "A company announces a share buyback program. What does this typically signal to investors?",
+  "subQuestion": "Buybacks are a common form of capital return.",
+  "options": [
+    {
+      "id": "A",
+      "text": "The company is overvalued.",
+      "isCorrect": false,
+      "explanation": "If management believed the stock was overvalued, they wouldn’t buy back shares."
+    },
+    {
+      "id": "B",
+      "text": "The company expects weaker earnings ahead.",
+      "isCorrect": false,
+      "explanation": "Buybacks are often used when cash flow is strong and growth opportunities are limited."
+    },
+    {
+      "id": "C",
+      "text": "Management sees the stock as undervalued.",
+      "isCorrect": true,
+      "explanation": "Repurchases suggest management believes the stock is a good investment relative to other uses of capital."
+    },
+    {
+      "id": "D",
+      "text": "The company is planning a stock split.",
+      "isCorrect": false,
+      "explanation": "Buybacks and stock splits are unrelated events — splits change share count, not capital allocation."
+    }
+  ]
+}
+{
+  "id": "week11-question",
+  "week": 11,
+  "question": "A biotech company receives FDA approval for a drug, but the stock barely moves.",
+  "subQuestion": "Why might the market not react strongly to positive regulatory news?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The company’s profits will now fall.",
+      "isCorrect": false,
+      "explanation": "Approval usually supports profits. A falling profit expectation isn't the cause of muted reaction here."
+    },
+    {
+      "id": "B",
+      "text": "The news was already priced in by the market.",
+      "isCorrect": true,
+      "explanation": "If approval was widely expected, investors may have already reflected this in the stock price before the announcement."
+    },
+    {
+      "id": "C",
+      "text": "The FDA revoked prior approvals.",
+      "isCorrect": false,
+      "explanation": "There's no indication of revoked approvals. The question is about a newly granted one."
+    },
+    {
+      "id": "D",
+      "text": "Biotech companies are not affected by drug news.",
+      "isCorrect": false,
+      "explanation": "Drug approvals are major events for biotech stocks, though impact depends on expectations."
+    }
+  ]
+},
+{
+  "id": "week12-question",
+  "week": 12,
+  "question": "An investor buys a high-dividend stock as rates rise. What risk are they taking?",
+  "subQuestion": "Dividend-paying stocks are popular, but rate environments matter.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Their dividend will automatically rise too.",
+      "isCorrect": false,
+      "explanation": "Dividends are not tied directly to interest rates and depend on company policy."
+    },
+    {
+      "id": "B",
+      "text": "The stock may underperform as bond yields become more attractive.",
+      "isCorrect": true,
+      "explanation": "Higher bond yields reduce the relative appeal of dividend stocks, potentially pressuring their valuations."
+    },
+    {
+      "id": "C",
+      "text": "High-dividend stocks are immune to rate changes.",
+      "isCorrect": false,
+      "explanation": "They are sensitive to rates because they’re often used as bond substitutes."
+    },
+    {
+      "id": "D",
+      "text": "They’ll face a dividend tax hike.",
+      "isCorrect": false,
+      "explanation": "Tax changes are separate from rate moves and not implied in this scenario."
+    }
+  ]
+},
+{
+  "id": "week13-question",
+  "week": 13,
+  "question": "Why might a retailer report strong sales but still see its stock fall?",
+  "subQuestion": "Sales growth is just one part of the story.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Strong sales always reduce margins.",
+      "isCorrect": false,
+      "explanation": "Higher sales can support margins, depending on pricing and costs."
+    },
+    {
+      "id": "B",
+      "text": "Investors may fear profits are being driven by unsustainable discounting.",
+      "isCorrect": true,
+      "explanation": "If gross margins fall, investors worry sales growth is being bought with lower prices, which isn't sustainable."
+    },
+    {
+      "id": "C",
+      "text": "Retailers are less sensitive to margins.",
+      "isCorrect": false,
+      "explanation": "Margins are critical in retail. Small changes can dramatically affect profits."
+    },
+    {
+      "id": "D",
+      "text": "The stock price is based on inflation alone.",
+      "isCorrect": false,
+      "explanation": "Inflation influences prices, but company fundamentals still matter greatly for valuation."
+    }
+  ]
+},
+{
+  "id": "week14-question",
+  "week": 14,
+  "question": "A company announces layoffs despite posting strong earnings.",
+  "subQuestion": "What might this signal to investors?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The company is expanding operations.",
+      "isCorrect": false,
+      "explanation": "Layoffs are typically associated with cost cutting, not expansion."
+    },
+    {
+      "id": "B",
+      "text": "The strong results may not be sustainable.",
+      "isCorrect": true,
+      "explanation": "Cost-cutting alongside good results could imply management is bracing for weaker conditions ahead."
+    },
+    {
+      "id": "C",
+      "text": "The company is shifting to hourly workers.",
+      "isCorrect": false,
+      "explanation": "There's no indication of labor strategy changes, just job cuts."
+    },
+    {
+      "id": "D",
+      "text": "Investors don’t care about earnings reports.",
+      "isCorrect": false,
+      "explanation": "Earnings are central to valuation. Layoffs during good results invite questions about the outlook."
+    }
+  ]
+}
+{
+  "id": "week15-question",
+  "week": 15,
+  "question": "Why might a stock drop even after beating earnings expectations?",
+  "subQuestion": "Understanding investor expectations beyond the headline results is key.",
+  "options": [
+    {
+      "id": "A",
+      "text": "The company paid a dividend.",
+      "isCorrect": false,
+      "explanation": "Paying dividends is typically seen as a sign of strength, not a reason for a stock to drop."
+    },
+    {
+      "id": "B",
+      "text": "The company issued weak forward guidance.",
+      "isCorrect": true,
+      "explanation": "Markets are forward-looking. Weak outlooks can outweigh current earnings beats in investor sentiment."
+    },
+    {
+      "id": "C",
+      "text": "Earnings were adjusted for inflation.",
+      "isCorrect": false,
+      "explanation": "Inflation adjustments are common and disclosed — they don’t usually explain a stock’s decline alone."
+    },
+    {
+      "id": "D",
+      "text": "The market misunderstood the results.",
+      "isCorrect": false,
+      "explanation": "Institutional investors are sophisticated and usually interpret results correctly."
+    }
+  ]
+},
+{
+  "id": "week16-question",
+  "week": 16,
+  "question": "What does a flattening yield curve often indicate?",
+  "subQuestion": "Bond markets signal expectations about future growth and interest rates.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stronger future economic growth.",
+      "isCorrect": false,
+      "explanation": "A steepening, not flattening, curve typically reflects strong growth expectations."
+    },
+    {
+      "id": "B",
+      "text": "A potential economic slowdown.",
+      "isCorrect": true,
+      "explanation": "A flattening curve suggests investors expect slower future growth and potentially lower rates."
+    },
+    {
+      "id": "C",
+      "text": "Rising inflation expectations.",
+      "isCorrect": false,
+      "explanation": "Rising inflation would usually steepen the curve as long-term rates rise faster."
+    },
+    {
+      "id": "D",
+      "text": "Improving corporate earnings.",
+      "isCorrect": false,
+      "explanation": "Earnings relate more to equities. Yield curves reflect macroeconomic and rate expectations."
+    }
+  ]
+},
+{
+  "id": "week17-question",
+  "week": 17,
+  "question": "Why do central banks raise interest rates during inflation?",
+  "subQuestion": "It’s a key tool for stabilizing prices.",
+  "options": [
+    {
+      "id": "A",
+      "text": "To encourage borrowing and investment.",
+      "isCorrect": false,
+      "explanation": "Rate hikes discourage borrowing to cool the economy and demand."
+    },
+    {
+      "id": "B",
+      "text": "To reduce excess demand and slow inflation.",
+      "isCorrect": true,
+      "explanation": "Higher rates make credit costlier, reducing spending and helping stabilize prices."
+    },
+    {
+      "id": "C",
+      "text": "To boost the stock market.",
+      "isCorrect": false,
+      "explanation": "Rising rates typically pressure stocks due to higher discount rates and borrowing costs."
+    },
+    {
+      "id": "D",
+      "text": "To increase government deficits.",
+      "isCorrect": false,
+      "explanation": "Rate hikes raise government interest costs but are not intended to increase deficits."
+    }
+  ]
+},
+{
+  "id": "week18-question",
+  "week": 18,
+  "question": "A pension fund shifts from equities to long-duration bonds. What might this imply?",
+  "subQuestion": "Asset allocation often reflects risk and macro views.",
+  "options": [
+    {
+      "id": "A",
+      "text": "The fund expects a strong bull market in stocks.",
+      "isCorrect": false,
+      "explanation": "A move out of equities usually reflects caution, not bullishness."
+    },
+    {
+      "id": "B",
+      "text": "The fund anticipates falling interest rates or deflation.",
+      "isCorrect": true,
+      "explanation": "Long-duration bonds rise in value when rates fall. This shift implies a defensive stance."
+    },
+    {
+      "id": "C",
+      "text": "The fund wants more exposure to inflation-sensitive assets.",
+      "isCorrect": false,
+      "explanation": "Long-duration bonds lose value in inflationary environments."
+    },
+    {
+      "id": "D",
+      "text": "The fund is increasing risk exposure.",
+      "isCorrect": false,
+      "explanation": "Long-duration bonds are typically safer than equities, so this reduces portfolio risk."
+    }
+  ]
+},
+{
+  "id": "week19-question",
+  "week": 19,
+  "question": "A hedge fund is long oil producers and short airlines. Crude prices drop sharply. What is the likely outcome?",
+  "subQuestion": "This is a directional pair trade.",
+  "options": [
+    {
+      "id": "A",
+      "text": "The portfolio gains from falling oil prices.",
+      "isCorrect": false,
+      "explanation": "The long oil position loses when prices fall. This hurts performance."
+    },
+    {
+      "id": "B",
+      "text": "The portfolio may lose on both legs of the trade.",
+      "isCorrect": true,
+      "explanation": "Oil producers fall and airlines may rally. Both legs can move against the hedge fund."
+    },
+    {
+      "id": "C",
+      "text": "The fund is neutral to oil prices.",
+      "isCorrect": false,
+      "explanation": "Being long oil producers and short airlines creates directional oil exposure."
+    },
+    {
+      "id": "D",
+      "text": "Shorting airlines offsets all risk.",
+      "isCorrect": false,
+      "explanation": "Shorts can hedge, but not perfectly. A rally in airlines adds to oil losses."
+    }
+  ]
+},
+{
+  "id": "week20-question",
+  "week": 20,
+  "question": "An index fund underperforms an active fund during a downturn. Why might this happen?",
+  "subQuestion": "Passive vs. active performance can diverge in stress.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Index funds trade too often.",
+      "isCorrect": false,
+      "explanation": "Index funds have low turnover and aren’t hurt by frequent trading."
+    },
+    {
+      "id": "B",
+      "text": "Active funds can hold cash and defensives.",
+      "isCorrect": true,
+      "explanation": "Active managers can reduce risk in downturns by shifting to cash or stable sectors, unlike passive strategies."
+    },
+    {
+      "id": "C",
+      "text": "Indexes exclude large companies.",
+      "isCorrect": false,
+      "explanation": "Indexes include the largest firms by design — this isn’t the reason for underperformance."
+    },
+    {
+      "id": "D",
+      "text": "The active fund ignored the market decline.",
+      "isCorrect": false,
+      "explanation": "Outperformance implies proactive positioning, not ignoring market trends."
+    }
+  ]
+}
+{
+  "id": "week21-question",
+  "week": 21,
+  "question": "A stock with a high P/E ratio drops sharply after a modest earnings miss.",
+  "subQuestion": "Why might high-valuation stocks react more strongly to bad news?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Their dividends are too low.",
+      "isCorrect": false,
+      "explanation": "While some may have low dividends, that’s not the reason for sharp reactions to earnings."
+    },
+    {
+      "id": "B",
+      "text": "Expectations are very high, so any disappointment hits hard.",
+      "isCorrect": true,
+      "explanation": "High valuations reflect high expectations. Even small misses can lead to outsized stock drops."
+    },
+    {
+      "id": "C",
+      "text": "They are automatically removed from indexes.",
+      "isCorrect": false,
+      "explanation": "Index inclusion isn’t based on earnings results alone and doesn’t drive immediate price changes."
+    },
+    {
+      "id": "D",
+      "text": "They are less liquid.",
+      "isCorrect": false,
+      "explanation": "Large-cap high P/E stocks are usually very liquid. Volatility is due to sentiment and valuation, not liquidity."
+    }
+  ]
+},
+{
+  "id": "week22-question",
+  "week": 22,
+  "question": "What is the primary goal of asset diversification?",
+  "subQuestion": "Diversification is a foundational principle of portfolio construction.",
+  "options": [
+    {
+      "id": "A",
+      "text": "To eliminate all risk.",
+      "isCorrect": false,
+      "explanation": "Diversification reduces but does not eliminate risk — especially systematic risk."
+    },
+    {
+      "id": "B",
+      "text": "To increase short-term returns.",
+      "isCorrect": false,
+      "explanation": "Diversification often tempers volatility and may sacrifice short-term highs for consistency."
+    },
+    {
+      "id": "C",
+      "text": "To reduce portfolio volatility and improve risk-adjusted returns.",
+      "isCorrect": true,
+      "explanation": "Diversification smooths returns and helps manage drawdowns across market conditions."
+    },
+    {
+      "id": "D",
+      "text": "To outperform the market index every year.",
+      "isCorrect": false,
+      "explanation": "No strategy guarantees outperformance annually; diversification is about risk control."
+    }
+  ]
+},
+{
+  "id": "week23-question",
+  "week": 23,
+  "question": "A company issues a profit warning. What is a likely market reaction?",
+  "subQuestion": "Profit warnings are often surprises.",
+  "options": [
+    {
+      "id": "A",
+      "text": "The stock rises on future optimism.",
+      "isCorrect": false,
+      "explanation": "Profit warnings generally indicate weaker near-term results, which often lead to declines."
+    },
+    {
+      "id": "B",
+      "text": "The stock drops due to lowered expectations.",
+      "isCorrect": true,
+      "explanation": "A profit warning reduces forward earnings expectations, which lowers valuation and confidence."
+    },
+    {
+      "id": "C",
+      "text": "Analysts upgrade the stock.",
+      "isCorrect": false,
+      "explanation": "Profit warnings typically lead to downgrades, not upgrades."
+    },
+    {
+      "id": "D",
+      "text": "The company announces a share split.",
+      "isCorrect": false,
+      "explanation": "Splits are cosmetic and unrelated to profit trends."
+    }
+  ]
+},
+{
+  "id": "week24-question",
+  "week": 24,
+  "question": "Why might a strong jobs report cause the stock market to fall?",
+  "subQuestion": "Good economic news can have complex implications.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Investors prefer high unemployment.",
+      "isCorrect": false,
+      "explanation": "Markets don’t favor economic weakness, but they do react to the policy implications of data."
+    },
+    {
+      "id": "B",
+      "text": "Strong jobs data may prompt rate hikes to control inflation.",
+      "isCorrect": true,
+      "explanation": "Good employment data may trigger tighter monetary policy, which can hurt stock valuations."
+    },
+    {
+      "id": "C",
+      "text": "More jobs always reduce corporate profits.",
+      "isCorrect": false,
+      "explanation": "Employment supports demand; only wage pressures might reduce profits — not jobs themselves."
+    },
+    {
+      "id": "D",
+      "text": "Companies must stop hiring.",
+      "isCorrect": false,
+      "explanation": "No rule requires hiring to stop when jobs data is strong."
+    }
+  ]
+},
+{
+  "id": "week25-question",
+  "week": 25,
+  "question": "What does the term 'flight to quality' refer to?",
+  "subQuestion": "It often occurs during financial stress or uncertainty.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Investors buying more commodities.",
+      "isCorrect": false,
+      "explanation": "Commodities may be inflation hedges, but they are not considered 'quality' in a risk-off sense."
+    },
+    {
+      "id": "B",
+      "text": "Investors shifting from stocks to safe government bonds.",
+      "isCorrect": true,
+      "explanation": "In uncertain times, investors reduce risk by moving capital into low-volatility, high-quality assets like Treasuries."
+    },
+    {
+      "id": "C",
+      "text": "Buying stocks of luxury goods companies.",
+      "isCorrect": false,
+      "explanation": "'Quality' in this context refers to credit safety and stability, not branding."
+    },
+    {
+      "id": "D",
+      "text": "Investors moving into emerging markets.",
+      "isCorrect": false,
+      "explanation": "Emerging markets are riskier and not where capital typically flows in periods of stress."
+    }
+  ]
+}
+{
+  "id": "week26-question",
+  "week": 26,
+  "question": "What is 'duration' in bond investing?",
+  "subQuestion": "It’s a key metric for interest rate sensitivity.",
+  "options": [
+    {
+      "id": "A",
+      "text": "The number of years to maturity.",
+      "isCorrect": false,
+      "explanation": "Maturity is a separate concept. Duration reflects sensitivity to interest rate changes."
+    },
+    {
+      "id": "B",
+      "text": "A measure of a bond’s sensitivity to interest rate changes.",
+      "isCorrect": true,
+      "explanation": "Duration estimates how much a bond's price will change in response to a change in interest rates."
+    },
+    {
+      "id": "C",
+      "text": "How long the bond has been trading.",
+      "isCorrect": false,
+      "explanation": "Trading history isn’t related to duration."
+    },
+    {
+      "id": "D",
+      "text": "The average holding period of investors.",
+      "isCorrect": false,
+      "explanation": "Investor behavior may vary, but duration is a structural attribute of the bond itself."
+    }
+  ]
+},
+{
+  "id": "week27-question",
+  "week": 27,
+  "question": "A company’s earnings are more stable than the market average. What does this suggest about its beta?",
+  "subQuestion": "Beta measures sensitivity to market moves.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Beta is likely high.",
+      "isCorrect": false,
+      "explanation": "High beta implies higher volatility than the market, which contradicts earnings stability."
+    },
+    {
+      "id": "B",
+      "text": "Beta is likely low.",
+      "isCorrect": true,
+      "explanation": "Stable earnings typically lead to lower stock price volatility relative to the market, resulting in a lower beta."
+    },
+    {
+      "id": "C",
+      "text": "Beta is unrelated to earnings.",
+      "isCorrect": false,
+      "explanation": "Earnings stability affects investor perception and stock price volatility, influencing beta."
+    },
+    {
+      "id": "D",
+      "text": "Beta must equal 1.",
+      "isCorrect": false,
+      "explanation": "Only market indices have a beta of 1 by definition — individual stocks vary."
+    }
+  ]
+},
+{
+  "id": "week28-question",
+  "week": 28,
+  "question": "What is a key reason investors use ETFs over mutual funds?",
+  "subQuestion": "Both are pooled investment vehicles, but with different features.",
+  "options": [
+    {
+      "id": "A",
+      "text": "ETFs are actively managed.",
+      "isCorrect": false,
+      "explanation": "While some ETFs are active, most are passive. Management style isn’t the core advantage."
+    },
+    {
+      "id": "B",
+      "text": "ETFs trade intraday like stocks.",
+      "isCorrect": true,
+      "explanation": "ETFs offer liquidity and flexibility by trading throughout the day on exchanges — unlike mutual funds."
+    },
+    {
+      "id": "C",
+      "text": "Mutual funds never pay dividends.",
+      "isCorrect": false,
+      "explanation": "Mutual funds can and do distribute dividends. That’s not a differentiator."
+    },
+    {
+      "id": "D",
+      "text": "ETFs always outperform mutual funds.",
+      "isCorrect": false,
+      "explanation": "Performance depends on strategy, fees, and execution — not structure alone."
+    }
+  ]
+},
+{
+  "id": "week29-question",
+  "week": 29,
+  "question": "Which factor would most likely lead to a stronger U.S. dollar?",
+  "subQuestion": "Currencies respond to relative economic and policy conditions.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A decline in U.S. interest rates.",
+      "isCorrect": false,
+      "explanation": "Lower interest rates reduce the appeal of U.S. assets, often weakening the dollar."
+    },
+    {
+      "id": "B",
+      "text": "Stronger U.S. economic growth relative to other countries.",
+      "isCorrect": true,
+      "explanation": "Higher growth attracts capital, increasing demand for the dollar and strengthening the currency."
+    },
+    {
+      "id": "C",
+      "text": "A widening trade deficit.",
+      "isCorrect": false,
+      "explanation": "A trade deficit increases the supply of dollars abroad, potentially weakening the currency."
+    },
+    {
+      "id": "D",
+      "text": "Increased fiscal stimulus overseas.",
+      "isCorrect": false,
+      "explanation": "Foreign stimulus may support other currencies, not necessarily the dollar."
+    }
+  ]
+},
+{
+  "id": "week30-question",
+  "week": 30,
+  "question": "An investor fears inflation and wants protection. Which asset is most directly aligned with this goal?",
+  "subQuestion": "Inflation erodes purchasing power and affects real returns.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Long-duration bonds.",
+      "isCorrect": false,
+      "explanation": "Long-duration bonds are sensitive to inflation and may lose value when rates rise."
+    },
+    {
+      "id": "B",
+      "text": "TIPS (Treasury Inflation-Protected Securities).",
+      "isCorrect": true,
+      "explanation": "TIPS are designed to protect against inflation by adjusting principal and interest payments with CPI."
+    },
+    {
+      "id": "C",
+      "text": "Growth stocks.",
+      "isCorrect": false,
+      "explanation": "Growth stocks may be hurt by rising rates, especially if inflation persists."
+    },
+    {
+      "id": "D",
+      "text": "REITs (Real Estate Investment Trusts).",
+      "isCorrect": false,
+      "explanation": "REITs can offer partial inflation protection but aren’t as directly tied to inflation as TIPS."
+    }
+  ]
+}
+[
+  {
+    "id": "week31-question",
+    "week": 31,
+    "question": "A central bank signals future rate cuts despite current high inflation.",
+    "subQuestion": "Why might markets rally on this unexpected signal?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inflation will immediately disappear.",
+        "isCorrect": false,
+        "explanation": "Rate cuts won’t instantly eliminate inflation; they reflect a view on future disinflation."
+      },
+      {
+        "id": "B",
+        "text": "It signals that economic growth is weakening.",
+        "isCorrect": true,
+        "explanation": "A pivot toward rate cuts often means growth is slowing, which can lift sentiment in risk assets."
+      },
+      {
+        "id": "C",
+        "text": "It reduces bank earnings entirely.",
+        "isCorrect": false,
+        "explanation": "While net interest margins may compress, cut signaling can overshoot effects into recession fears."
+      },
+      {
+        "id": "D",
+        "text": "It always boosts currency strength.",
+        "isCorrect": false,
+        "explanation": "Rate cuts typically weaken a currency; rally in assets often reflects risk-on sentiment."
+      }
+    ]
+  },
+  {
+    "id": "week32-question",
+    "week": 32,
+    "question": "Why do equity markets often fall in September?",
+    "subQuestion": "This is a noted seasonal phenomenon.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Companies report annual earnings in September.",
+        "isCorrect": false,
+        "explanation": "Earnings calendars vary; September weakness is more due to investor seasonality."
+      },
+      {
+        "id": "B",
+        "text": "Investors return from summer vacations and rebalance portfolios.",
+        "isCorrect": true,
+        "explanation": "Post-summer repositioning and profit-taking can pressure markets in September."
+      },
+      {
+        "id": "C",
+        "text": "Governments raise taxes in September.",
+        "isCorrect": false,
+        "explanation": "Tax policies don’t universally align with September markets."
+      },
+      {
+        "id": "D",
+        "text": "It’s statistically insignificant.",
+        "isCorrect": false,
+        "explanation": "Research confirms September is one of the weaker months historically for equities."
+      }
+    ]
+  },
+  {
+    "id": "week33-question",
+    "week": 33,
+    "question": "What does 'alpha' refer to in portfolio management?",
+    "subQuestion": "It complements beta in risk-adjusted performance.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The percentage of assets in cash.",
+        "isCorrect": false,
+        "explanation": "Cash allocation is a portfolio decision, not performance relative to benchmark."
+      },
+      {
+        "id": "B",
+        "text": "Returns exceeding those predicted by the portfolio’s risk (beta).",
+        "isCorrect": true,
+        "explanation": "Alpha represents skill- or strategy-based excess return over benchmark expectations."
+      },
+      {
+        "id": "C",
+        "text": "Total market return.",
+        "isCorrect": false,
+        "explanation": "That would be the market’s return, not alpha."
+      },
+      {
+        "id": "D",
+        "text": "Expected return based on the CAPM model.",
+        "isCorrect": false,
+        "explanation": "Expected CAPM return is the benchmark; alpha is return above that."
+      }
+    ]
+  },
+  {
+    "id": "week34-question",
+    "week": 34,
+    "question": "A company issues convertible bonds. What is a likely intention?",
+    "subQuestion": "Convertible instruments can signal multiple strategic aims.",
+    "options": [
+      {
+        "id": "A",
+        "text": "To avoid dilution at all costs.",
+        "isCorrect": false,
+        "explanation": "Convertible bonds will dilute if converted; they delay dilution rather than avoid it."
+      },
+      {
+        "id": "B",
+        "text": "To raise debt at lower interest rates than regular bonds.",
+        "isCorrect": true,
+        "explanation": "Convertibles offer lower coupon since they include an equity conversion feature."
+      },
+      {
+        "id": "C",
+        "text": "To reduce its total debt outstanding.",
+        "isCorrect": false,
+        "explanation": "They add debt initially; only upon conversion does equity replace debt."
+      },
+      {
+        "id": "D",
+        "text": "To guarantee bondholders equity upside.",
+        "isCorrect": false,
+        "explanation": "Bondholders might convert, but equity upside is conditional and not guaranteed."
+      }
+    ]
+  },
+  {
+    "id": "week35-question",
+    "week": 35,
+    "question": "What is a risk of investing in frontier markets?",
+    "subQuestion": "These are less-developed than emerging markets.",
+    "options": [
+      {
+        "id": "A",
+        "text": "High liquidity and lower volatility.",
+        "isCorrect": false,
+        "explanation": "Frontier markets often have low liquidity and higher volatility."
+      },
+      {
+        "id": "B",
+        "text": "Limited transparency and higher political risk.",
+        "isCorrect": true,
+        "explanation": "These markets may lack regulatory oversight, increasing governance and political risks."
+      },
+      {
+        "id": "C",
+        "text": "They are immune to global shocks.",
+        "isCorrect": false,
+        "explanation": "They can be more vulnerable to global economic or commodity swings."
+      },
+      {
+        "id": "D",
+        "text": "Mandatory dividends by law.",
+        "isCorrect": false,
+        "explanation": "Dividend policies vary; no requirement mandates them in these markets."
+      }
+    ]
+  },
+  {
+    "id": "week36-question",
+    "week": 36,
+    "question": "Why do some investors add gold to their portfolios?",
+    "subQuestion": "Consider gold’s historical role in portfolio construction.",
+    "options": [
+      {
+        "id": "A",
+        "text": "It offers high income like bonds.",
+        "isCorrect": false,
+        "explanation": "Gold doesn’t produce income; it’s a non-yielding asset."
+      },
+      {
+        "id": "B",
+        "text": "It has low correlation with stocks and bonds.",
+        "isCorrect": true,
+        "explanation": "Gold often behaves differently from equities and bonds, providing diversification benefits."
+      },
+      {
+        "id": "C",
+        "text": "Its price is stable in all situations.",
+        "isCorrect": false,
+        "explanation": "Gold can be volatile; stability isn’t guaranteed."
+      },
+      {
+        "id": "D",
+        "text": "It’s a high-growth commodity.",
+        "isCorrect": false,
+        "explanation": "Gold is valued as a safe haven, not for growth potential."
+      }
+    ]
+  },
+  {
+    "id": "week37-question",
+    "week": 37,
+    "question": "What does 'short squeezing' refer to?",
+    "subQuestion": "It’s a notable force in certain volatile stocks.",
+    "options": [
+      {
+        "id": "A",
+        "text": "An increase in short interest leading to a stock collapse.",
+        "isCorrect": false,
+        "explanation": "High short interest can cause tightness, but squeeze refers to short sellers being forced to cover."
+      },
+      {
+        "id": "B",
+        "text": "Short sellers refuse to buy, causing prices to fall.",
+        "isCorrect": false,
+        "explanation": "Shorts cover by buying, which pushes prices up—opposite of refusal."
+      },
+      {
+        "id": "C",
+        "text": "Rising asset prices forcing short sellers to buy back positions.",
+        "isCorrect": true,
+        "explanation": "A short squeeze occurs when shorts rush to cover, fueling rapid price increases."
+      },
+      {
+        "id": "D",
+        "text": "Short sellers borrowing more shares.",
+        "isCorrect": false,
+        "explanation": "Borrowing more shares increases short interest, but doesn't describe a squeeze event."
+      }
+    ]
+  },
+  {
+    "id": "week38-question",
+    "week": 38,
+    "question": "Why might corporate bonds widen their yield spread during a recession?",
+    "subQuestion": "Yield spreads reflect risk perceptions over government bonds.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Government bonds yield more than corporates.",
+        "isCorrect": false,
+        "explanation": "Typically, corporates yield more; widening spread means corporates underperform government bonds."
+      },
+      {
+        "id": "B",
+        "text": "Investors demand more premium for corporate risk.",
+        "isCorrect": true,
+        "explanation": "Recession increases default risk, so investors require higher yields on corporate bonds."
+      },
+      {
+        "id": "C",
+        "text": "Corporates become risk-free assets.",
+        "isCorrect": false,
+        "explanation": "No—corporates are riskier than sovereigns, especially during downturns."
+      },
+      {
+        "id": "D",
+        "text": "It reflects lower credit ratings only.",
+        "isCorrect": false,
+        "explanation": "While ratings matter, spread widening comes from market sentiment and liquidity risk too."
+      }
+    ]
+  },
+  {
+    "id": "week39-question",
+    "week": 39,
+    "question": "What is a put option?",
+    "subQuestion": "Define the financial derivative correctly.",
+    "options": [
+      {
+        "id": "A",
+        "text": "A contract giving the buyer the right to buy an asset.",
+        "isCorrect": false,
+        "explanation": "That describes a call option, not a put."
+      },
+      {
+        "id": "B",
+        "text": "A contract obligating the seller to buy an asset.",
+        "isCorrect": false,
+        "explanation": "A put gives the buyer the right to sell; seller must buy if exercised."
+      },
+      {
+        "id": "C",
+        "text": "A contract giving the buyer the right to sell an asset at a specified price.",
+        "isCorrect": true,
+        "explanation": "That is the correct definition of a put option."
+      },
+      {
+        "id": "D",
+        "text": "A contract obligating the buyer to sell an asset.",
+        "isCorrect": false,
+        "explanation": "It’s optional right, not obligation, to sell."
+      }
+    ]
+  },
+  {
+    "id": "week40-question",
+    "week": 40,
+    "question": "What occurs during a credit downgrade of a major corporation?",
+    "subQuestion": "Consider bond pricing implications.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Corporate bonds usually rally.",
+        "isCorrect": false,
+        "explanation": "Downgrades increase perceived risk, so bond prices typically fall."
+      },
+      {
+        "id": "B",
+        "text": "Bond yields are unaffected.",
+        "isCorrect": false,
+        "explanation": "Yields rise to compensate for added credit risk."
+      },
+      {
+        "id": "C",
+        "text": "Bond yields rise as prices fall.",
+        "isCorrect": true,
+        "explanation": "A downgrade increases default concerns, pushing yields higher."
+      },
+      {
+        "id": "D",
+        "text": "The stock price is unaffected.",
+        "isCorrect": false,
+        "explanation": "Downgrades reflect deteriorating fundamentals, often negative for stock prices too."
+      }
+    ]
+  },
+  {
+    "id": "week41-question",
+    "week": 41,
+    "question": "Why might a company choose to list on a foreign exchange?",
+    "subQuestion": "Cross-listing has strategic motivations.",
+    "options": [
+      {
+        "id": "A",
+        "text": "To avoid regulatory oversight.",
+        "isCorrect": false,
+        "explanation": "Foreign listing adds complexity and compliance, not avoidance."
+      },
+      {
+        "id": "B",
+        "text": "To expand investor base and liquidity.",
+        "isCorrect": true,
+        "explanation": "Listing abroad increases access to capital from international investors."
+      },
+      {
+        "id": "C",
+        "text": "It guarantees analyst coverage.",
+        "isCorrect": false,
+        "explanation": "Coverage may follow, but it's not guaranteed by listing."
+      },
+      {
+        "id": "D",
+        "text": "It exempts the company from taxes.",
+        "isCorrect": false,
+        "explanation": "Listing does not change corporate tax obligations."
+      }
+    ]
+  },
+  {
+    "id": "week42-question",
+    "week": 42,
+    "question": "An investor holds a stressed mortgage-backed security (MBS). What’s a key risk?",
+    "subQuestion": "MBS have unique cash-flow features.",
+    "options": [
+      {
+        "id": "A",
+        "text": "No prepayment risk.",
+        "isCorrect": false,
+        "explanation": "MBS can be prepaid, which adds reinvestment risk."
+      },
+      {
+        "id": "B",
+        "text": "They are fully government-guaranteed.",
+        "isCorrect": false,
+        "explanation": "Not all are guaranteed, and private-label MBS carry credit risk."
+      },
+      {
+        "id": "C",
+        "text": "They may suffer from increased prepayment during rate declines.",
+        "isCorrect": true,
+        "explanation": "Falling rates lead homeowners to refinance, shortening MBS duration."
+      },
+      {
+        "id": "D",
+        "text": "They are inflation-protected.",
+        "isCorrect": false,
+        "explanation": "MBS payouts don’t adjust for inflation."
+      }
+    ]
+  },
+  {
+    "id": "week43-question",
+    "week": 43,
+    "question": "What is the purpose of a stop-loss order?",
+    "subQuestion": "It’s a risk control tool for equity investors.",
+    "options": [
+      {
+        "id": "A",
+        "text": "To guarantee you buy at a low price.",
+        "isCorrect": false,
+        "explanation": "It triggers a sell when price falls, not a buy."
+      },
+      {
+        "id": "B",
+        "text": "To limit potential losses by automatically selling at a predefined price.",
+        "isCorrect": true,
+        "explanation": "Stop-loss orders help manage downside risk by triggering a sale if price drops."
+      },
+      {
+        "id": "C",
+        "text": "To hedge currency exposure.",
+        "isCorrect": false,
+        "explanation": "That requires currency hedging tools, not stop-loss orders."
+      },
+      {
+        "id": "D",
+        "text": "To ensure a profit.",
+        "isCorrect": false,
+        "explanation": "It controls losses, not guarantee gains."
+      }
+    ]
+  },
+  {
+    "id": "week44-question",
+    "week": 44,
+    "question": "Why might high-frequency trading (HFT) firms tighten bid-ask spreads?",
+    "subQuestion": "Consider their role in market-making.",
+    "options": [
+      {
+        "id": "A",
+        "text": "To capture wider profits per trade.",
+        "isCorrect": false,
+        "explanation": "Wider spreads yield more per trade, but fewer trades and less liquidity."
+      },
+      {
+        "id": "B",
+        "text": "To improve liquidity and earn volume-based profits.",
+        "isCorrect": true,
+        "explanation": "HFTs earn from many small trades—tight spreads stimulate volume."
+      },
+      {
+        "id": "C",
+        "text": "To confuse retail investors.",
+        "isCorrect": false,
+        "explanation": "Spread strategies are driven by efficiency, not deception."
+      },
+      {
+        "id": "D",
+        "text": "To avoid regulatory fees.",
+        "isCorrect": false,
+        "explanation": "Fees don’t depend on spread width."
+      }
+    ]
+  },
+  {
+    "id": "week45-question",
+    "week": 45,
+    "question": "Why do companies prefer debt over equity when interest rates are low?",
+    "subQuestion": "Consider cost of capital and ownership implications.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Debt never requires repayment.",
+        "isCorrect": false,
+        "explanation": "Debt must be repaid and carries interest obligations."
+      },
+      {
+        "id": "B",
+        "text": "Debt reduces ownership dilution and is cheaper when rates are low.",
+        "isCorrect": true,
+        "explanation": "Cheap financing avoids equity dilution and refines capital structure."
+      },
+      {
+        "id": "C",
+        "text": "Equity holders demand fixed payments.",
+        "isCorrect": false,
+        "explanation": "Dividends are discretionary.”
+      },
+      {
+        "id": "D",
+        "text": "Debt improves credit rating.",
+        "isCorrect": false,
+        "explanation": "High leverage can weaken credit, not strengthen it."
+      }
+    ]
+  },
+  {
+    "id": "week46-question",
+    "week": 46,
+    "question": "A firm announces it’s converting short-term debt to long-term debt.",
+    "subQuestion": "Why might this be viewed positively by investors?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It increases short-term liquidity risk.",
+        "isCorrect": false,
+        "explanation": "It actually reduces near-term repayment pressure."
+      },
+      {
+        "id": "B",
+        "text": "It locks in lower rates and eases liquidity needs.",
+        "isCorrect": true,
+        "explanation": "Rolling into longer maturities reduces rollover risk and can fix lower rates."
+      },
+      {
+        "id": "C",
+        "text": "It implies imminent bankruptcy.",
+        "isCorrect": false,
+        "explanation": "Terming out debt generally alleviates financial concerns."
+      },
+      {
+        "id": "D",
+        "text": "It always increases EPS.",
+        "isCorrect": false,
+        "explanation": "EPS impact depends on interest cost and balance sheet changes."
+      }
+    ]
+  },
+  {
+    "id": "week47-question",
+    "week": 47,
+    "question": "How does foreign direct investment (FDI) benefit host countries?",
+    "subQuestion": "Consider economic and developmental impacts.",
+    "options": [
+      {
+        "id": "A",
+        "text": "It decreases employment opportunities.",
+        "isCorrect": false,
+        "explanation": "FDI typically creates jobs by expanding operations."
+      },
+      {
+        "id": "B",
+        "text": "It brings capital, jobs, and technology transfer.",
+        "isCorrect": true,
+        "explanation": "Foreign investments often support infrastructure development and knowledge sharing."
+      },
+      {
+        "id": "C",
+        "text": "It always worsens environmental standards.",
+        "isCorrect": false,
+        "explanation": "Environmental impact depends on regulations and firm behavior."
+      },
+      {
+        "id": "D",
+        "text": "It forces domestic firms to close immediately.",
+        "isCorrect": false,
+        "explanation": "Competition may rise, but domestic firms can adapt or collaborate."
+      }
+    ]
+  },
+  {
+    "id": "week48-question",
+    "week": 48,
+    "question": "Why are small-cap stocks often more volatile than large-cap stocks?",
+    "subQuestion": "Think about liquidity and investor base.",
+    "options": [
+      {
+        "id": "A",
+        "text": "They are included in major indices.",
+        "isCorrect": false,
+        "explanation": "Index inclusion tends to reduce risk, not increase it."
+      },
+      {
+        "id": "B",
+        "text": "They have fewer shares and lower trading volume.",
+        "isCorrect": true,
+        "explanation": "Lower liquidity magnifies price moves on small trades."
+      },
+      {
+        "id": "C",
+        "text": "They pay higher dividends.",
+        "isCorrect": false,
+        "explanation": "Dividend levels don’t determine volatility."
+      },
+      {
+        "id": "D",
+        "text": "They are all tech companies.",
+        "isCorrect": false,
+        "explanation": "Small‑caps span sectors; volatility stems from size and liquidity."
+      }
+    ]
+  },
+  {
+    "id": "week49-question",
+    "week": 49,
+    "question": "A company announces restructuring costs that hurt current earnings but improve margins long-term.",
+    "subQuestion": "How should an informed investor interpret this?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Avoid the stock—it’s losing money now.",
+        "isCorrect": false,
+        "explanation": "The short‑term cost may signal future strength and higher earnings potential."
+      },
+      {
+        "id": "B",
+        "text": "It may offer long‑term benefits despite near‑term pain.",
+        "isCorrect": true,
+        "explanation": "Restructuring often creates future efficiencies that support profit and valuation recovery."
+      },
+      {
+        "id": "C",
+        "text": "It’s a sign of accounting fraud.",
+        "isCorrect": false,
+        "explanation": "Restructuring charges are disclosed and often legitimate cost choices."
+      },
+      {
+        "id": "D",
+        "text": "They won’t impact cash flow.",
+        "isCorrect": false,
+        "explanation": "Cash outflows occur when costs are realized even if reported as non‑cash adjustments."
+      }
+    ]
+  },
+  {
+    "id": "week50-question",
+    "week": 50,
+    "question": "Why might a company with strong earnings have a high payout ratio but low growth?",
+    "subQuestion": "This reflects capital allocation strategy.",
+    "options": [
+      {
+        "id": "A",
+        "text": "It’s signaling a lack of investment opportunities.",
+        "isCorrect": true,
+        "explanation": "Returning earnings to shareholders suggests fewer high-return projects available internally."
+      },
+      {
+        "id": "B",
+        "text": "It wants to avoid paying taxes.",
+        "isCorrect": false,
+        "explanation": "Payout decisions are strategic, not tax‑driven."
+      },
+      {
+        "id": "C",
+        "text": "High growth requires high payout ratios.",
+        "isCorrect": false,
+        "explanation": "Growth firms often reinvest earnings, not distribute them."
+      },
+      {
+        "id": "D",
+        "text": "They plan to reduce liabilities quickly.",
+        "isCorrect": false,
+        "explanation": "Payouts affect equity distribution, not debt repayment."
+      }
+    ]
+  },
+  {
+    "id": "week51-question",
+    "week": 51,
+    "question": "What is systematic risk?",
+    "subQuestion": "This is the risk that cannot be diversified away.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Risk specific to an individual company.",
+        "isCorrect": false,
+        "explanation": "That’s unsystematic risk, which diversification can reduce."
+      },
+      {
+        "id": "B",
+        "text": "Risk affecting the entire market or economy.",
+        "isCorrect": true,
+        "explanation": "Systematic risk comes from broad factors like interest rates or geopolitical events."
+      },
+      {
+        "id": "C",
+        "text": "Risk from poor company earnings.",
+        "isCorrect": false,
+        "explanation": "Earnings risk is specific, not systemic."
+      },
+      {
+        "id": "D",
+        "text": "Risk from dividend cuts only.",
+        "isCorrect": false,
+        "explanation": "That’s a firm‑specific financial risk."
+      }
+    ]
+  },
+  {
+    "id": "week52-question",
+    "week": 52,
+    "question": "Why might year-end window dressing affect mutual funds?",
+    "subQuestion": "Consider how managers present portfolios to investors.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fund managers reallocate cash to index futures.",
+        "isCorrect": false,
+        "explanation": "Window dressing more often involves visible securities, not synthetics."
+      },
+      {
+        "id": "B",
+        "text": "They buy performing stocks to show strong holdings.",
+        "isCorrect": true,
+        "explanation": "Managers may boost holdings in winners to present a better snapshot in investor reports."
+      },
+      {
+        "id": "C",
+        "text": "They sell all losers at year-end.",
+        "isCorrect": false,
+        "explanation": "They might reduce underperformers, but rarely sell all at once."
+      },
+      {
+        "id": "D",
+        "text": "It’s illegal and never happens.",
+        "isCorrect": false,
+        "explanation": "Window dressing is allowed and a known disclosure practice."
+      }
+    ]
+  }
+]
+
 ]
