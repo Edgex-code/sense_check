@@ -6398,6 +6398,1606 @@
         "explanation": "This divides by 2% alone, treating the growth rate as the discount rate."
       }
     ]
+  },
+  {
+    "id": "day-201-question",
+    "day": 201,
+    "question": "Who is counted as unemployed in official statistics?",
+    "subQuestion": "Consider how the labour force is defined.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Anyone without a paid job",
+        "isCorrect": false,
+        "explanation": "Students, retirees and full-time carers have no paid job but are not counted as unemployed."
+      },
+      {
+        "id": "B",
+        "text": "Anyone claiming unemployment benefits",
+        "isCorrect": false,
+        "explanation": "Claimant counts are a separate series. Eligibility rules mean they capture a different population."
+      },
+      {
+        "id": "C",
+        "text": "People without work who are actively seeking it and available to start",
+        "isCorrect": true,
+        "explanation": "Both conditions matter. Someone who stops looking leaves the labour force entirely and is no longer counted."
+      },
+      {
+        "id": "D",
+        "text": "Anyone working fewer hours than they would like",
+        "isCorrect": false,
+        "explanation": "That is underemployment, measured separately from the headline unemployment rate."
+      }
+    ]
+  },
+  {
+    "id": "day-202-question",
+    "day": 202,
+    "question": "A bond with a 6% coupon trades at £94 per £100 of face value. What does this tell you about market yields?",
+    "subQuestion": "Assume the issuer's credit quality is sound.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Market yields are above 6%",
+        "isCorrect": true,
+        "explanation": "Buyers demand more than the coupon offers, so they will only purchase at a discount to par."
+      },
+      {
+        "id": "B",
+        "text": "Market yields are below 6%",
+        "isCorrect": false,
+        "explanation": "If yields were lower, the above-market coupon would make the bond trade above par, not below."
+      },
+      {
+        "id": "C",
+        "text": "Market yields are exactly 6%",
+        "isCorrect": false,
+        "explanation": "A bond trades at par when its coupon matches the required yield. This one trades at a discount."
+      },
+      {
+        "id": "D",
+        "text": "The issuer has reduced the coupon",
+        "isCorrect": false,
+        "explanation": "Coupons are contractually fixed. The price adjusts because the cash flows cannot."
+      }
+    ]
+  },
+  {
+    "id": "day-203-question",
+    "day": 203,
+    "question": "A defensive utility stock has a beta of 0.6. The market falls 10%. What does beta suggest, and what does it not?",
+    "subQuestion": "Assume beta is measured against a broad index.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The stock will fall exactly 6%",
+        "isCorrect": false,
+        "explanation": "Beta describes an average tendency, not a precise outcome in any single period."
+      },
+      {
+        "id": "B",
+        "text": "The stock cannot fall at all",
+        "isCorrect": false,
+        "explanation": "A positive beta means it typically moves in the same direction, just less sharply."
+      },
+      {
+        "id": "C",
+        "text": "The stock carries less total risk than the market",
+        "isCorrect": false,
+        "explanation": "Beta measures only systematic risk. A low-beta stock can still carry substantial company-specific risk."
+      },
+      {
+        "id": "D",
+        "text": "It tends to fall around 6%, but company-specific events could override this entirely",
+        "isCorrect": true,
+        "explanation": "Beta captures sensitivity to the market alone, leaving idiosyncratic factors such as a regulatory ruling unaccounted for."
+      }
+    ]
+  },
+  {
+    "id": "day-204-question",
+    "day": 204,
+    "question": "A company's revenue is flat but its accounts receivable balance has doubled. What does this suggest?",
+    "subQuestion": "Assume no change in customer mix.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The company has sold more goods",
+        "isCorrect": false,
+        "explanation": "Revenue is stated as flat, so sales volume and pricing together have not increased."
+      },
+      {
+        "id": "B",
+        "text": "More sales remain uncollected, which consumes cash and may signal collection problems",
+        "isCorrect": true,
+        "explanation": "Receivables represent revenue already recognised but not yet received, so a rising balance ties up cash."
+      },
+      {
+        "id": "C",
+        "text": "The company owes more to suppliers",
+        "isCorrect": false,
+        "explanation": "That would appear in accounts payable. Receivables are amounts owed to the company, not by it."
+      },
+      {
+        "id": "D",
+        "text": "Profit must have doubled",
+        "isCorrect": false,
+        "explanation": "A receivables balance says nothing about margin. Profit depends on revenue less costs."
+      }
+    ]
+  },
+  {
+    "id": "day-205-question",
+    "day": 205,
+    "question": "What is the main structural difference between a forward and a future?",
+    "subQuestion": "Both commit the parties to transact at a set price.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Forwards cannot reference currencies",
+        "isCorrect": false,
+        "explanation": "Currency forwards are among the most widely used contracts of this type."
+      },
+      {
+        "id": "B",
+        "text": "Futures are privately negotiated between two parties",
+        "isCorrect": false,
+        "explanation": "This describes forwards. Futures are standardised and traded on an exchange."
+      },
+      {
+        "id": "C",
+        "text": "Forwards settle daily through a clearing house",
+        "isCorrect": false,
+        "explanation": "Daily settlement through a clearing house is a feature of futures, not forwards."
+      },
+      {
+        "id": "D",
+        "text": "Futures are standardised and exchange-traded; forwards are customised and bilateral",
+        "isCorrect": true,
+        "explanation": "Standardisation brings liquidity and central clearing, while customisation lets a forward match an exposure exactly."
+      }
+    ]
+  },
+  {
+    "id": "day-206-question",
+    "day": 206,
+    "question": "Two companies both trade on a P/E of 25. One is expected to grow earnings 5% a year, the other 20%. What does comparing their PEG ratios attempt to capture?",
+    "subQuestion": "PEG divides the P/E by the expected growth rate.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Which company carries less debt",
+        "isCorrect": false,
+        "explanation": "Leverage is not part of the calculation. PEG relates price to earnings and growth only."
+      },
+      {
+        "id": "B",
+        "text": "Which company pays the larger dividend",
+        "isCorrect": false,
+        "explanation": "Distributions do not enter the ratio, though they may be funded from the same earnings."
+      },
+      {
+        "id": "C",
+        "text": "That the same multiple may be more justifiable where growth is faster",
+        "isCorrect": true,
+        "explanation": "PEG puts the multiple in the context of growth, so 25x looks far more demanding at 5% growth than at 20%."
+      },
+      {
+        "id": "D",
+        "text": "That the faster-growing company is definitively cheaper",
+        "isCorrect": false,
+        "explanation": "PEG is a crude screening tool. It ignores risk, the durability of growth, and the reliability of the forecast."
+      }
+    ]
+  },
+  {
+    "id": "day-207-question",
+    "day": 207,
+    "question": "A company has 100m shares and 6m options with a 200p strike. The share price is 500p. Using the treasury stock method, what is the diluted share count?",
+    "subQuestion": "Assume option proceeds are used to buy back shares at the market price.",
+    "options": [
+      {
+        "id": "A",
+        "text": "106.0m",
+        "isCorrect": false,
+        "explanation": "This adds all the option shares without accounting for the cash the exercising holders pay in."
+      },
+      {
+        "id": "B",
+        "text": "100.0m",
+        "isCorrect": false,
+        "explanation": "This ignores dilution entirely. The options are in the money and would add shares if exercised."
+      },
+      {
+        "id": "C",
+        "text": "102.4m",
+        "isCorrect": false,
+        "explanation": "This subtracts the full 6m rather than the number of shares the proceeds would repurchase."
+      },
+      {
+        "id": "D",
+        "text": "103.6m",
+        "isCorrect": true,
+        "explanation": "£12m of proceeds buys back 2.4m shares at 500p, so net new shares are 6m − 2.4m = 3.6m."
+      }
+    ]
+  },
+  {
+    "id": "day-208-question",
+    "day": 208,
+    "question": "A small company's shares traded 4m times their usual volume yesterday on a single piece of news, but spreads stayed wide. Is the stock liquid?",
+    "subQuestion": "Consider what liquidity actually requires.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Yes, since high volume proves liquidity",
+        "isCorrect": false,
+        "explanation": "Volume measures activity after the fact. Liquidity concerns the cost and ease of transacting at any moment."
+      },
+      {
+        "id": "B",
+        "text": "Not necessarily; wide spreads suggest trading is still costly despite the activity",
+        "isCorrect": true,
+        "explanation": "A genuinely liquid market combines volume with tight spreads and depth, so size can trade without a large price concession."
+      },
+      {
+        "id": "C",
+        "text": "Yes, because news always improves liquidity",
+        "isCorrect": false,
+        "explanation": "News often widens spreads, as quoting becomes riskier while the information is being absorbed."
+      },
+      {
+        "id": "D",
+        "text": "No, because liquidity depends only on market capitalisation",
+        "isCorrect": false,
+        "explanation": "Size correlates with liquidity but does not define it. Free float and investor interest matter too."
+      }
+    ]
+  },
+  {
+    "id": "day-209-question",
+    "day": 209,
+    "question": "A UK investor holds 85% of their equity portfolio in UK shares, although the UK is a small share of global market value. What is this?",
+    "subQuestion": "The investor has no specific UK-related liability.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sensible currency matching",
+        "isCorrect": false,
+        "explanation": "Currency matching makes sense against defined future liabilities, which the question rules out."
+      },
+      {
+        "id": "B",
+        "text": "Strategic asset allocation",
+        "isCorrect": false,
+        "explanation": "Strategic allocation sets long-term weights deliberately. The pattern here reflects familiarity rather than design."
+      },
+      {
+        "id": "C",
+        "text": "Home bias, overweighting familiar domestic assets relative to the global opportunity set",
+        "isCorrect": true,
+        "explanation": "Concentrating in one market forgoes diversification available elsewhere, usually for reasons of familiarity rather than analysis."
+      },
+      {
+        "id": "D",
+        "text": "Risk parity",
+        "isCorrect": false,
+        "explanation": "Risk parity balances risk contributions across holdings and has nothing to do with geography."
+      }
+    ]
+  },
+  {
+    "id": "day-210-question",
+    "day": 210,
+    "question": "Two mutually exclusive projects are available. Project A has a higher IRR; Project B has a higher NPV at the company's cost of capital. Which should be chosen?",
+    "subQuestion": "Only one can be undertaken.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Project A, since IRR measures efficiency of capital",
+        "isCorrect": false,
+        "explanation": "A high percentage return on a small project can add less value than a lower return on a large one."
+      },
+      {
+        "id": "B",
+        "text": "Whichever has the shorter payback period",
+        "isCorrect": false,
+        "explanation": "Payback ignores both the time value of money and everything beyond the recovery point."
+      },
+      {
+        "id": "C",
+        "text": "Project B, since NPV measures the value added in absolute terms",
+        "isCorrect": true,
+        "explanation": "When the two measures conflict between mutually exclusive projects, NPV is the reliable guide to shareholder value."
+      },
+      {
+        "id": "D",
+        "text": "Neither, since the conflict means both calculations are wrong",
+        "isCorrect": false,
+        "explanation": "The conflict is a known feature arising from differences in scale or cash flow timing, not an error."
+      }
+    ]
+  },
+  {
+    "id": "day-211-question",
+    "day": 211,
+    "question": "An asset manager votes against a company's remuneration report and meets the chair to discuss board composition. What is this?",
+    "subQuestion": "The manager continues to hold the shares.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Negative screening",
+        "isCorrect": false,
+        "explanation": "Screening excludes holdings. This manager has retained the shares precisely in order to exert influence."
+      },
+      {
+        "id": "B",
+        "text": "Active ownership, using voting and engagement to influence company practice",
+        "isCorrect": true,
+        "explanation": "Stewardship works through the rights that come with ownership rather than through the buy and sell decision."
+      },
+      {
+        "id": "C",
+        "text": "ESG integration",
+        "isCorrect": false,
+        "explanation": "Integration concerns how ESG factors inform investment analysis, not post-investment engagement."
+      },
+      {
+        "id": "D",
+        "text": "Impact investing",
+        "isCorrect": false,
+        "explanation": "Impact investing targets measurable outcomes through capital allocation, typically in private markets."
+      }
+    ]
+  },
+  {
+    "id": "day-212-question",
+    "day": 212,
+    "question": "A drought destroys a third of a major coffee-producing region's crop. Prices rise 40% within weeks. Why is the move so large relative to the loss?",
+    "subQuestion": "Consider how buyers respond to price in the short term.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Because producers have colluded to raise prices",
+        "isCorrect": false,
+        "explanation": "A supply shock alone explains the move. Collusion is a separate matter and not implied here."
+      },
+      {
+        "id": "B",
+        "text": "Because the futures market is unregulated",
+        "isCorrect": false,
+        "explanation": "Commodity futures are regulated, and regulation is not what determines the size of the price response."
+      },
+      {
+        "id": "C",
+        "text": "Because speculators always amplify moves threefold",
+        "isCorrect": false,
+        "explanation": "No fixed multiplier exists. Speculative flows can add to or dampen moves depending on circumstances."
+      },
+      {
+        "id": "D",
+        "text": "Because demand changes little with price in the short run, so prices must move sharply to clear the market",
+        "isCorrect": true,
+        "explanation": "Inelastic demand means buyers cannot easily reduce consumption, so a modest supply loss forces a disproportionate price response."
+      }
+    ]
+  },
+  {
+    "id": "day-213-question",
+    "day": 213,
+    "question": "A UK manufacturer sells only domestically and borrows only in sterling. Sterling strengthens sharply. How might it still be affected?",
+    "subQuestion": "It competes against European imports.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Through economic exposure, as imported competitors become cheaper",
+        "isCorrect": true,
+        "explanation": "Even with no foreign currency on the balance sheet, a stronger pound can erode competitiveness and future cash flows."
+      },
+      {
+        "id": "B",
+        "text": "Through transaction exposure on its sterling sales",
+        "isCorrect": false,
+        "explanation": "Transaction exposure arises from contracted foreign currency amounts, which this company does not have."
+      },
+      {
+        "id": "C",
+        "text": "Through translation exposure on its UK subsidiaries",
+        "isCorrect": false,
+        "explanation": "Translation exposure arises when consolidating foreign operations, and all operations here are domestic."
+      },
+      {
+        "id": "D",
+        "text": "It is not affected at all",
+        "isCorrect": false,
+        "explanation": "The absence of direct currency positions does not remove the competitive effect of the exchange rate."
+      }
+    ]
+  },
+  {
+    "id": "day-214-question",
+    "day": 214,
+    "question": "What is a break fee in a merger agreement?",
+    "subQuestion": "Consider what it compensates for.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The advisers' fee for completing the transaction",
+        "isCorrect": false,
+        "explanation": "Advisory fees are charged for services rendered. A break fee relates to the deal not completing."
+      },
+      {
+        "id": "B",
+        "text": "A discount applied if the target underperforms before closing",
+        "isCorrect": false,
+        "explanation": "Price adjustment mechanisms exist, but a break fee is a payment on termination rather than a price change."
+      },
+      {
+        "id": "C",
+        "text": "A payment due if the deal terminates under specified circumstances",
+        "isCorrect": true,
+        "explanation": "It compensates a party for costs and lost opportunity if the other walks away or accepts a rival offer."
+      },
+      {
+        "id": "D",
+        "text": "The interest charged on acquisition financing",
+        "isCorrect": false,
+        "explanation": "Financing costs are owed to lenders and are unrelated to the termination provisions between buyer and seller."
+      }
+    ]
+  },
+  {
+    "id": "day-215-question",
+    "day": 215,
+    "question": "A company has gross debt of £850m, cash of £220m and no other financial assets. What is its net debt?",
+    "subQuestion": "Use the standard definition.",
+    "options": [
+      {
+        "id": "A",
+        "text": "£1,070m",
+        "isCorrect": false,
+        "explanation": "This adds cash to debt. Cash is available to repay borrowings, so it is deducted."
+      },
+      {
+        "id": "B",
+        "text": "£630m",
+        "isCorrect": true,
+        "explanation": "£850m − £220m = £630m, the borrowings remaining after available cash is applied against them."
+      },
+      {
+        "id": "C",
+        "text": "£850m",
+        "isCorrect": false,
+        "explanation": "This is gross debt, which ignores the cash the company already holds."
+      },
+      {
+        "id": "D",
+        "text": "£220m",
+        "isCorrect": false,
+        "explanation": "This is the cash balance alone, not a measure of indebtedness."
+      }
+    ]
+  },
+  {
+    "id": "day-216-question",
+    "day": 216,
+    "question": "Why is valuing a single commercial building harder than valuing a listed share?",
+    "subQuestion": "Consider what information is available for each.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Buildings generate no income",
+        "isCorrect": false,
+        "explanation": "Commercial property generates rent, which is central to how it is valued."
+      },
+      {
+        "id": "B",
+        "text": "Property values never change",
+        "isCorrect": false,
+        "explanation": "Property values move substantially, which is part of why periodic valuation is needed."
+      },
+      {
+        "id": "C",
+        "text": "Shares have no observable price",
+        "isCorrect": false,
+        "explanation": "Listed shares have continuously observable prices, which is exactly the contrast being drawn."
+      },
+      {
+        "id": "D",
+        "text": "Each building is unique and transactions are infrequent, so there is no continuous market price",
+        "isCorrect": true,
+        "explanation": "Valuation relies on appraisal and sparse comparables, which makes reported values smoother and less timely than market prices."
+      }
+    ]
+  },
+  {
+    "id": "day-217-question",
+    "day": 217,
+    "question": "A company issues both secured and unsecured bonds. Why does the secured issue typically carry a lower yield?",
+    "subQuestion": "Both are obligations of the same issuer.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Because specific assets back the claim, improving expected recovery if the issuer fails",
+        "isCorrect": true,
+        "explanation": "Collateral and priority raise what holders expect to receive in default, so less compensation is required."
+      },
+      {
+        "id": "B",
+        "text": "Because secured bonds cannot default",
+        "isCorrect": false,
+        "explanation": "Security affects recovery after default, not whether default can occur."
+      },
+      {
+        "id": "C",
+        "text": "Because secured bonds always mature sooner",
+        "isCorrect": false,
+        "explanation": "Maturity is set independently of security and can be longer or shorter."
+      },
+      {
+        "id": "D",
+        "text": "Because unsecured bonds pay no coupon",
+        "isCorrect": false,
+        "explanation": "Unsecured bonds pay coupons, typically higher ones to compensate for the weaker claim."
+      }
+    ]
+  },
+  {
+    "id": "day-218-question",
+    "day": 218,
+    "question": "An economy adds workers but output per hour is flat. What does this imply for sustainable growth?",
+    "subQuestion": "Assume the workforce cannot expand indefinitely.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Growth can continue indefinitely through employment alone",
+        "isCorrect": false,
+        "explanation": "Population and participation have limits, so headcount cannot be the permanent source of expansion."
+      },
+      {
+        "id": "B",
+        "text": "Output must be falling",
+        "isCorrect": false,
+        "explanation": "Output rises as workers are added. The constraint concerns how long that can continue."
+      },
+      {
+        "id": "C",
+        "text": "Long-run growth is constrained, since output rises only with headcount rather than efficiency",
+        "isCorrect": true,
+        "explanation": "Productivity growth is what allows output per person to rise, which is the basis of improving living standards."
+      },
+      {
+        "id": "D",
+        "text": "Inflation must fall as a result",
+        "isCorrect": false,
+        "explanation": "Weak productivity tends to add to cost pressure for a given level of wage growth, not reduce it."
+      }
+    ]
+  },
+  {
+    "id": "day-219-question",
+    "day": 219,
+    "question": "What is the purpose of hedging?",
+    "subQuestion": "Consider what a hedge is designed to achieve.",
+    "options": [
+      {
+        "id": "A",
+        "text": "To maximise expected returns",
+        "isCorrect": false,
+        "explanation": "Hedging usually reduces expected return slightly, since protection carries a cost."
+      },
+      {
+        "id": "B",
+        "text": "To reduce exposure to a specific unwanted risk",
+        "isCorrect": true,
+        "explanation": "A hedge takes an offsetting position so that an identified risk has less effect on the overall outcome."
+      },
+      {
+        "id": "C",
+        "text": "To eliminate every risk in a portfolio",
+        "isCorrect": false,
+        "explanation": "Hedges target particular exposures and typically leave basis, counterparty and other risks in place."
+      },
+      {
+        "id": "D",
+        "text": "To increase leverage efficiently",
+        "isCorrect": false,
+        "explanation": "Derivatives can be used for leverage, but that is speculation rather than hedging."
+      }
+    ]
+  },
+  {
+    "id": "day-220-question",
+    "day": 220,
+    "question": "A risk team models the effect on a portfolio of oil rising 60% while equities fall 25% and credit spreads double. What is this?",
+    "subQuestion": "No probability is attached to the combination.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Value at risk",
+        "isCorrect": false,
+        "explanation": "VaR produces a loss threshold at a stated confidence level rather than examining a specific combination of moves."
+      },
+      {
+        "id": "B",
+        "text": "Performance attribution",
+        "isCorrect": false,
+        "explanation": "Attribution explains past returns. This exercise is forward-looking and hypothetical."
+      },
+      {
+        "id": "C",
+        "text": "Tracking error analysis",
+        "isCorrect": false,
+        "explanation": "Tracking error measures variability of returns against a benchmark, not behaviour under a defined shock."
+      },
+      {
+        "id": "D",
+        "text": "Scenario analysis, examining outcomes under a defined set of linked moves",
+        "isCorrect": true,
+        "explanation": "Scenarios test coherent combinations of factor changes, which is useful precisely where probabilities are unknowable."
+      }
+    ]
+  },
+  {
+    "id": "day-221-question",
+    "day": 221,
+    "question": "A company buys a factory for cash. In which section of the cash flow statement does this appear?",
+    "subQuestion": "Use the standard three-section structure.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Operating activities",
+        "isCorrect": false,
+        "explanation": "Operating covers day-to-day trading flows. Buying long-lived assets is a separate category."
+      },
+      {
+        "id": "B",
+        "text": "Investing activities",
+        "isCorrect": true,
+        "explanation": "Purchases and disposals of long-term assets sit in investing, separating reinvestment from trading performance."
+      },
+      {
+        "id": "C",
+        "text": "Financing activities",
+        "isCorrect": false,
+        "explanation": "Financing covers raising and repaying capital, such as debt drawdowns, dividends and share issues."
+      },
+      {
+        "id": "D",
+        "text": "It does not appear, since an asset was received in exchange",
+        "isCorrect": false,
+        "explanation": "Cash left the business, so it must be shown. Receiving an asset does not make the outflow invisible."
+      }
+    ]
+  },
+  {
+    "id": "day-222-question",
+    "day": 222,
+    "question": "A company reports operating cash flow of £180m, capital expenditure of £60m and net income of £100m. What is its free cash flow conversion?",
+    "subQuestion": "Measure free cash flow against net income.",
+    "options": [
+      {
+        "id": "A",
+        "text": "60%",
+        "isCorrect": false,
+        "explanation": "This compares capital expenditure with net income rather than measuring the cash left after it."
+      },
+      {
+        "id": "B",
+        "text": "180%",
+        "isCorrect": false,
+        "explanation": "This uses operating cash flow without deducting the capital spending needed to sustain the business."
+      },
+      {
+        "id": "C",
+        "text": "120%",
+        "isCorrect": true,
+        "explanation": "Free cash flow is £180m − £60m = £120m, which is 120% of net income, indicating earnings are backed by cash."
+      },
+      {
+        "id": "D",
+        "text": "83%",
+        "isCorrect": false,
+        "explanation": "This inverts the ratio, placing net income over free cash flow."
+      }
+    ]
+  },
+  {
+    "id": "day-223-question",
+    "day": 223,
+    "question": "A board has surplus cash and is choosing between a special dividend and a buyback. What is a genuine argument for the buyback?",
+    "subQuestion": "Assume the shares are judged to be undervalued.",
+    "options": [
+      {
+        "id": "A",
+        "text": "It increases the company's earnings",
+        "isCorrect": false,
+        "explanation": "Total earnings are unchanged. Only earnings per share move, through the reduced share count."
+      },
+      {
+        "id": "B",
+        "text": "It avoids any cost to shareholders",
+        "isCorrect": false,
+        "explanation": "Cash leaves the business either way. The question is the form in which value is returned."
+      },
+      {
+        "id": "C",
+        "text": "It commits the company to a permanent higher payout",
+        "isCorrect": false,
+        "explanation": "That is closer to a drawback of regular dividends. Buybacks are valued partly for being discretionary."
+      },
+      {
+        "id": "D",
+        "text": "It returns cash without setting an expectation of recurrence, and adds value if the shares are genuinely cheap",
+        "isCorrect": true,
+        "explanation": "Flexibility is the main advantage, though the benefit depends entirely on not overpaying for the shares."
+      }
+    ]
+  },
+  {
+    "id": "day-224-question",
+    "day": 224,
+    "question": "A trading venue pays a rebate to participants who post resting orders and charges those who trade against them. What is this?",
+    "subQuestion": "Consider who supplies liquidity in each case.",
+    "options": [
+      {
+        "id": "A",
+        "text": "A trading halt mechanism",
+        "isCorrect": false,
+        "explanation": "A halt suspends trading. This describes an ongoing fee structure."
+      },
+      {
+        "id": "B",
+        "text": "Maker-taker pricing, rewarding liquidity provision and charging liquidity removal",
+        "isCorrect": true,
+        "explanation": "The structure encourages participants to post quotes, which deepens the order book for everyone else."
+      },
+      {
+        "id": "C",
+        "text": "Internalisation",
+        "isCorrect": false,
+        "explanation": "Internalisation is a broker filling client orders in-house rather than routing them to a venue."
+      },
+      {
+        "id": "D",
+        "text": "Price-time priority",
+        "isCorrect": false,
+        "explanation": "That governs the order in which resting orders are filled, not how fees are charged."
+      }
+    ]
+  },
+  {
+    "id": "day-225-question",
+    "day": 225,
+    "question": "A bond is rated BBB by one agency. What does that rating represent?",
+    "subQuestion": "Consider the nature of a credit rating.",
+    "options": [
+      {
+        "id": "A",
+        "text": "An opinion on the issuer's relative creditworthiness, not a guarantee or a price",
+        "isCorrect": true,
+        "explanation": "Ratings rank likelihood of repayment on a relative scale. They say nothing about whether the bond is attractively priced."
+      },
+      {
+        "id": "B",
+        "text": "A precise probability that the bond will default",
+        "isCorrect": false,
+        "explanation": "Agencies publish historical default rates by category, but a rating is an ordinal judgement rather than a probability estimate."
+      },
+      {
+        "id": "C",
+        "text": "A recommendation to buy the bond",
+        "isCorrect": false,
+        "explanation": "Ratings deliberately avoid investment recommendations, which depend on price and the investor's objectives."
+      },
+      {
+        "id": "D",
+        "text": "A guarantee from the agency that payments will be made",
+        "isCorrect": false,
+        "explanation": "No agency stands behind the debt. The rating is an opinion, carrying no financial obligation."
+      }
+    ]
+  },
+  {
+    "id": "day-226-question",
+    "day": 226,
+    "question": "A manufacturing group and a private equity fund both bid for the same company. How do their motivations typically differ?",
+    "subQuestion": "Both believe the target is attractively priced.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only the private equity fund will conduct due diligence",
+        "isCorrect": false,
+        "explanation": "Both buyers investigate thoroughly before committing capital."
+      },
+      {
+        "id": "B",
+        "text": "Only the manufacturing group will use debt",
+        "isCorrect": false,
+        "explanation": "Leverage is characteristic of private equity. A corporate buyer may use less, not more."
+      },
+      {
+        "id": "C",
+        "text": "The private equity fund intends to hold the business permanently",
+        "isCorrect": false,
+        "explanation": "Funds typically plan an exit within a defined period, which is central to how they underwrite a deal."
+      },
+      {
+        "id": "D",
+        "text": "The strategic buyer can realise synergies with its own operations; the financial buyer relies on improvement and exit",
+        "isCorrect": true,
+        "explanation": "Synergies can justify a higher price for a strategic buyer, while a financial buyer's return depends on operational gains, leverage and sale value."
+      }
+    ]
+  },
+  {
+    "id": "day-227-question",
+    "day": 227,
+    "question": "After a market crash, an investor says the warning signs were obvious all along, though they held full equity exposure beforehand. What is this?",
+    "subQuestion": "They made no changes before the fall.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Confirmation bias",
+        "isCorrect": false,
+        "explanation": "Confirmation bias filters incoming evidence. This concerns how a past event is remembered after the outcome is known."
+      },
+      {
+        "id": "B",
+        "text": "Loss aversion",
+        "isCorrect": false,
+        "explanation": "Loss aversion concerns how losses feel. The error here is in reconstructing what was foreseeable."
+      },
+      {
+        "id": "C",
+        "text": "Hindsight bias, remembering the outcome as having been predictable",
+        "isCorrect": true,
+        "explanation": "Knowing what happened reshapes memory of what was knowable, which can breed false confidence about predicting the next event."
+      },
+      {
+        "id": "D",
+        "text": "Anchoring",
+        "isCorrect": false,
+        "explanation": "Anchoring fixes on a specific reference figure, which is not what is described."
+      }
+    ]
+  },
+  {
+    "id": "day-228-question",
+    "day": 228,
+    "question": "A company has identified six positive-NPV projects but can fund only three. How should it choose?",
+    "subQuestion": "The capital constraint is fixed for this year.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Choose the three with the longest lives",
+        "isCorrect": false,
+        "explanation": "Duration alone says nothing about how much value a project adds per pound invested."
+      },
+      {
+        "id": "B",
+        "text": "Select the combination that maximises total NPV within the available capital",
+        "isCorrect": true,
+        "explanation": "Under rationing, the aim is the most value from the limited budget, which often favours value per pound invested rather than raw NPV."
+      },
+      {
+        "id": "C",
+        "text": "Choose the three with the lowest initial cost",
+        "isCorrect": false,
+        "explanation": "Cheapness is not the objective. A low-cost project may add very little value."
+      },
+      {
+        "id": "D",
+        "text": "Reject all six, since not all can be funded",
+        "isCorrect": false,
+        "explanation": "Forgoing positive-NPV projects entirely destroys value that could have been captured."
+      }
+    ]
+  },
+  {
+    "id": "day-229-question",
+    "day": 229,
+    "question": "A portfolio returned 13%. The risk-free rate was 3%, the market returned 11%, and the portfolio's beta is 1.2. What is Jensen's alpha?",
+    "subQuestion": "Use the CAPM-implied expected return.",
+    "options": [
+      {
+        "id": "A",
+        "text": "2.0%",
+        "isCorrect": false,
+        "explanation": "This compares the portfolio return with the market return directly, ignoring the portfolio's higher beta."
+      },
+      {
+        "id": "B",
+        "text": "10.0%",
+        "isCorrect": false,
+        "explanation": "This is the excess return over the risk-free rate, before adjusting for the risk taken."
+      },
+      {
+        "id": "C",
+        "text": "−0.4%",
+        "isCorrect": false,
+        "explanation": "The sign is inverted. The portfolio beat its CAPM-implied return rather than falling short of it."
+      },
+      {
+        "id": "D",
+        "text": "0.4%",
+        "isCorrect": true,
+        "explanation": "CAPM implies 3% + 1.2 × (11% − 3%) = 12.6%, so the 13% achieved represents 0.4% of alpha."
+      }
+    ]
+  },
+  {
+    "id": "day-230-question",
+    "day": 230,
+    "question": "A central bank is criticised for not supporting the stock market during a sell-off. Why is this criticism usually misplaced?",
+    "subQuestion": "Consider a typical mandate.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Because central banks cannot influence asset prices",
+        "isCorrect": false,
+        "explanation": "Policy clearly affects asset prices. The question is whether supporting them is an objective."
+      },
+      {
+        "id": "B",
+        "text": "Because equity markets are too small to matter",
+        "isCorrect": false,
+        "explanation": "Equity markets are economically significant, which is why disorderly falls can matter for financial stability."
+      },
+      {
+        "id": "C",
+        "text": "Because central banks are prohibited from acting in a crisis",
+        "isCorrect": false,
+        "explanation": "They act decisively in crises, typically to preserve financial stability rather than to support valuations."
+      },
+      {
+        "id": "D",
+        "text": "Because mandates centre on price stability and often employment, not supporting asset prices",
+        "isCorrect": true,
+        "explanation": "A falling market may inform the outlook for inflation and growth, but propping up share prices is not an objective in itself."
+      }
+    ]
+  },
+  {
+    "id": "day-231-question",
+    "day": 231,
+    "question": "A company with floating-rate debt enters a swap to pay fixed and receive floating. What has it achieved?",
+    "subQuestion": "Assume the swap matches the debt's size and term.",
+    "options": [
+      {
+        "id": "A",
+        "text": "It has eliminated the debt",
+        "isCorrect": false,
+        "explanation": "The borrowing remains. The swap changes the character of the interest cost, not the principal obligation."
+      },
+      {
+        "id": "B",
+        "text": "It has converted its floating interest cost into a fixed one",
+        "isCorrect": true,
+        "explanation": "The floating leg received offsets the floating interest paid on the loan, leaving a fixed net cost."
+      },
+      {
+        "id": "C",
+        "text": "It will benefit if interest rates fall",
+        "isCorrect": false,
+        "explanation": "Having fixed its cost, the company forgoes the benefit of falling rates. That is the trade-off for certainty."
+      },
+      {
+        "id": "D",
+        "text": "It has removed its credit risk to lenders",
+        "isCorrect": false,
+        "explanation": "The company still owes the loan and must still service it. A swap addresses rate exposure, not creditworthiness."
+      }
+    ]
+  },
+  {
+    "id": "day-232-question",
+    "day": 232,
+    "question": "Two companies have identical financials, but one is listed and the other privately held. Why might the private one be valued lower per pound of earnings?",
+    "subQuestion": "Assume equal growth prospects and risk.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Private companies are always less profitable",
+        "isCorrect": false,
+        "explanation": "The question specifies identical financials, so profitability is the same."
+      },
+      {
+        "id": "B",
+        "text": "Private companies pay higher tax",
+        "isCorrect": false,
+        "explanation": "Tax treatment generally depends on jurisdiction and structure, not on whether shares are listed."
+      },
+      {
+        "id": "C",
+        "text": "An illiquidity discount, since the stake cannot readily be sold",
+        "isCorrect": true,
+        "explanation": "Investors require compensation for being unable to exit quickly at a known price, which lowers what they will pay."
+      },
+      {
+        "id": "D",
+        "text": "Private companies cannot be valued",
+        "isCorrect": false,
+        "explanation": "They are valued routinely, using the same methods adjusted for liquidity and information differences."
+      }
+    ]
+  },
+  {
+    "id": "day-233-question",
+    "day": 233,
+    "question": "GBP/USD moves from 1.25 to 1.32. What has happened?",
+    "subQuestion": "Read the quote as US dollars per pound.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sterling has weakened against the dollar",
+        "isCorrect": false,
+        "explanation": "A pound now buys more dollars, which is strength rather than weakness."
+      },
+      {
+        "id": "B",
+        "text": "Both currencies have strengthened",
+        "isCorrect": false,
+        "explanation": "A bilateral rate cannot show both sides appreciating against each other."
+      },
+      {
+        "id": "C",
+        "text": "Sterling has strengthened against the dollar",
+        "isCorrect": true,
+        "explanation": "One pound now buys $1.32 rather than $1.25, so sterling has appreciated and the dollar has depreciated."
+      },
+      {
+        "id": "D",
+        "text": "The dollar has strengthened against sterling",
+        "isCorrect": false,
+        "explanation": "This reads the quote backwards. More dollars per pound means the dollar has weakened."
+      }
+    ]
+  },
+  {
+    "id": "day-234-question",
+    "day": 234,
+    "question": "Which of these is a social factor in ESG analysis?",
+    "subQuestion": "Distinguish it from environmental and governance matters.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Executive pay structure",
+        "isCorrect": false,
+        "explanation": "Remuneration design is a governance matter, concerning how the company is directed and incentivised."
+      },
+      {
+        "id": "B",
+        "text": "Scope 1 emissions",
+        "isCorrect": false,
+        "explanation": "Direct emissions are an environmental measure."
+      },
+      {
+        "id": "C",
+        "text": "Audit committee independence",
+        "isCorrect": false,
+        "explanation": "Committee composition and oversight sit squarely within governance."
+      },
+      {
+        "id": "D",
+        "text": "Workplace safety record across the supply chain",
+        "isCorrect": true,
+        "explanation": "Social factors concern a company's relationships with people, including workers, customers and communities."
+      }
+    ]
+  },
+  {
+    "id": "day-235-question",
+    "day": 235,
+    "question": "An investor holds index-linked government bonds. Inflation comes in higher than expected. What happens?",
+    "subQuestion": "Assume the bonds are held to maturity.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The coupon rate rises permanently",
+        "isCorrect": false,
+        "explanation": "The coupon rate is fixed. It is the principal to which that rate applies that is uplifted."
+      },
+      {
+        "id": "B",
+        "text": "Principal and coupon payments rise with the index, protecting real value",
+        "isCorrect": true,
+        "explanation": "Indexation adjusts the cash flows for inflation, so the investor's purchasing power is largely preserved."
+      },
+      {
+        "id": "C",
+        "text": "The bonds are redeemed early",
+        "isCorrect": false,
+        "explanation": "Inflation does not trigger redemption. The bonds run to their stated maturity."
+      },
+      {
+        "id": "D",
+        "text": "Nothing, since government bonds have fixed payments",
+        "isCorrect": false,
+        "explanation": "Conventional gilts have fixed payments, but index-linked bonds are specifically designed to adjust."
+      }
+    ]
+  },
+  {
+    "id": "day-236-question",
+    "day": 236,
+    "question": "Nominal GDP grew 6% while the GDP deflator rose 4%. What was approximate real GDP growth?",
+    "subQuestion": "Use the approximate relationship.",
+    "options": [
+      {
+        "id": "A",
+        "text": "10%",
+        "isCorrect": false,
+        "explanation": "This adds inflation to nominal growth. Price change is removed, not added, to reach a real figure."
+      },
+      {
+        "id": "B",
+        "text": "1.5%",
+        "isCorrect": false,
+        "explanation": "This divides one figure by the other rather than taking the difference."
+      },
+      {
+        "id": "C",
+        "text": "2%",
+        "isCorrect": true,
+        "explanation": "6% − 4% = 2%. Stripping out price changes isolates the growth in actual volume of output."
+      },
+      {
+        "id": "D",
+        "text": "6%",
+        "isCorrect": false,
+        "explanation": "This is nominal growth, which flatters the picture by including price increases alongside volume."
+      }
+    ]
+  },
+  {
+    "id": "day-237-question",
+    "day": 237,
+    "question": "Why do private equity sponsors use substantial debt in a buyout?",
+    "subQuestion": "Consider the effect on the equity invested.",
+    "options": [
+      {
+        "id": "A",
+        "text": "It magnifies returns on the equity committed, while increasing the risk of distress",
+        "isCorrect": true,
+        "explanation": "Less equity funds the same asset, so a given rise in enterprise value produces a larger percentage return, and the reverse is also true."
+      },
+      {
+        "id": "B",
+        "text": "Debt is free because interest is deductible",
+        "isCorrect": false,
+        "explanation": "Deductibility lowers the net cost but does not eliminate it, and the obligation remains in bad years."
+      },
+      {
+        "id": "C",
+        "text": "Lenders take responsibility for running the business",
+        "isCorrect": false,
+        "explanation": "Lenders impose covenants but do not manage the company. Control rests with the sponsor."
+      },
+      {
+        "id": "D",
+        "text": "It removes the need for the business to generate cash",
+        "isCorrect": false,
+        "explanation": "Leverage increases the need for reliable cash flow, since interest and amortisation must be serviced."
+      }
+    ]
+  },
+  {
+    "id": "day-238-question",
+    "day": 238,
+    "question": "What does delivery versus payment achieve in securities settlement?",
+    "subQuestion": "Consider the two legs of a trade.",
+    "options": [
+      {
+        "id": "A",
+        "text": "It guarantees the security will rise in value",
+        "isCorrect": false,
+        "explanation": "Settlement mechanics have no bearing on subsequent price performance."
+      },
+      {
+        "id": "B",
+        "text": "It removes the need for a central counterparty",
+        "isCorrect": false,
+        "explanation": "The two mechanisms address different risks and are commonly used together."
+      },
+      {
+        "id": "C",
+        "text": "It speeds up the settlement cycle",
+        "isCorrect": false,
+        "explanation": "Cycle length is set by market convention. DVP concerns how the legs are linked, not how quickly."
+      },
+      {
+        "id": "D",
+        "text": "It links the transfer of securities to the transfer of cash, so neither side delivers without receiving",
+        "isCorrect": true,
+        "explanation": "Conditioning each leg on the other removes the principal risk of handing over value and getting nothing back."
+      }
+    ]
+  },
+  {
+    "id": "day-239-question",
+    "day": 239,
+    "question": "A traditional 60/40 portfolio is described as having most of its risk in equities despite 40% being in bonds. What does risk parity propose instead?",
+    "subQuestion": "Consider what is being equalised.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Holding equal amounts of capital in each asset class",
+        "isCorrect": false,
+        "explanation": "Equal capital weighting is precisely what risk parity moves away from, since equal money does not mean equal risk."
+      },
+      {
+        "id": "B",
+        "text": "Allocating so that each component contributes similarly to total portfolio risk",
+        "isCorrect": true,
+        "explanation": "Because equities are far more volatile, balancing risk contributions typically means holding less equity, often with leverage applied elsewhere."
+      },
+      {
+        "id": "C",
+        "text": "Holding only assets with equal expected returns",
+        "isCorrect": false,
+        "explanation": "The approach balances risk contributions rather than requiring returns to match."
+      },
+      {
+        "id": "D",
+        "text": "Removing bonds entirely in favour of equities",
+        "isCorrect": false,
+        "explanation": "That would concentrate risk further, which is the opposite of the intention."
+      }
+    ]
+  },
+  {
+    "id": "day-240-question",
+    "day": 240,
+    "question": "A supermarket chain consistently reports negative working capital. Why might this be a sign of strength rather than weakness?",
+    "subQuestion": "Customers pay immediately; suppliers are paid later.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Because it means the company has no current liabilities",
+        "isCorrect": false,
+        "explanation": "Negative working capital arises precisely because current liabilities exceed current assets."
+      },
+      {
+        "id": "B",
+        "text": "Because it shows the company is growing rapidly",
+        "isCorrect": false,
+        "explanation": "Rapid growth typically absorbs working capital. This pattern reflects the business model instead."
+      },
+      {
+        "id": "C",
+        "text": "Because suppliers effectively fund the inventory until it is sold for cash",
+        "isCorrect": true,
+        "explanation": "Collecting from customers before paying suppliers releases cash, so expansion can be partly self-funding."
+      },
+      {
+        "id": "D",
+        "text": "Because it means the company carries no inventory",
+        "isCorrect": false,
+        "explanation": "Supermarkets hold substantial inventory. The advantage comes from the timing of payments around it."
+      }
+    ]
+  },
+  {
+    "id": "day-241-question",
+    "day": 241,
+    "question": "A US investor buys a depositary receipt representing shares in a Japanese company. What exposure do they have?",
+    "subQuestion": "The receipt trades in US dollars.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only US market risk, since it trades in dollars",
+        "isCorrect": false,
+        "explanation": "Trading currency does not remove the underlying exposure. The receipt tracks a Japanese company's shares."
+      },
+      {
+        "id": "B",
+        "text": "Exposure to the Japanese company's performance and to the yen, despite the dollar listing",
+        "isCorrect": true,
+        "explanation": "The receipt represents the underlying shares, so both business fundamentals and the exchange rate flow through to value."
+      },
+      {
+        "id": "C",
+        "text": "A direct claim on the depositary bank's assets",
+        "isCorrect": false,
+        "explanation": "The bank holds the underlying shares on behalf of holders. The claim is to those shares, not the bank's balance sheet."
+      },
+      {
+        "id": "D",
+        "text": "Exposure to the yen but not to the company",
+        "isCorrect": false,
+        "explanation": "The company's performance is the primary driver. Currency is an additional layer."
+      }
+    ]
+  },
+  {
+    "id": "day-242-question",
+    "day": 242,
+    "question": "A DCF produces a valuation of £1.2bn at a 9% discount rate and £1.9bn at 7%. What does this spread tell an analyst?",
+    "subQuestion": "All other assumptions are unchanged.",
+    "options": [
+      {
+        "id": "A",
+        "text": "One of the two calculations must be wrong",
+        "isCorrect": false,
+        "explanation": "Both are correct at their respective rates. The spread reflects genuine sensitivity rather than an error."
+      },
+      {
+        "id": "B",
+        "text": "The company is worth the average of the two",
+        "isCorrect": false,
+        "explanation": "Averaging obscures the point. The analyst needs to justify which rate is appropriate."
+      },
+      {
+        "id": "C",
+        "text": "The discount rate is irrelevant to long-term value",
+        "isCorrect": false,
+        "explanation": "A 58% swing in value from two percentage points demonstrates the opposite."
+      },
+      {
+        "id": "D",
+        "text": "The valuation is highly sensitive to the discount rate, so that assumption deserves close scrutiny",
+        "isCorrect": true,
+        "explanation": "Where small input changes move the answer substantially, a point estimate conveys false precision and a range is more honest."
+      }
+    ]
+  },
+  {
+    "id": "day-243-question",
+    "day": 243,
+    "question": "An airline buys fuel futures ahead of the winter season. What is it doing?",
+    "subQuestion": "The airline consumes fuel rather than producing it.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Speculating on higher oil prices",
+        "isCorrect": false,
+        "explanation": "It already faces the exposure through its operations, so the futures offset rather than create a position."
+      },
+      {
+        "id": "B",
+        "text": "Hedging as a consumer, locking in a purchase price against rising fuel costs",
+        "isCorrect": true,
+        "explanation": "Gains on the long futures offset a higher physical fuel bill, which is the mirror image of a producer's short hedge."
+      },
+      {
+        "id": "C",
+        "text": "Guaranteeing it will not need to buy fuel",
+        "isCorrect": false,
+        "explanation": "The airline still buys physical fuel commercially. The futures address price, not supply."
+      },
+      {
+        "id": "D",
+        "text": "Reducing its exposure to passenger demand",
+        "isCorrect": false,
+        "explanation": "Demand risk is unaffected by a fuel hedge. If flights are cancelled, the hedge may even become oversized."
+      }
+    ]
+  },
+  {
+    "id": "day-244-question",
+    "day": 244,
+    "question": "A company reports operating profit of £420m and interest expense of £70m. What is its interest coverage ratio?",
+    "subQuestion": "Express the answer as a multiple.",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.17x",
+        "isCorrect": false,
+        "explanation": "This inverts the ratio. Earnings go on top when measuring the capacity to service interest."
+      },
+      {
+        "id": "B",
+        "text": "£350m",
+        "isCorrect": false,
+        "explanation": "This is profit after interest in absolute terms. Coverage is expressed as a multiple."
+      },
+      {
+        "id": "C",
+        "text": "6.0x",
+        "isCorrect": true,
+        "explanation": "£420m ÷ £70m = 6, meaning operating profit covers the interest bill six times over."
+      },
+      {
+        "id": "D",
+        "text": "16.7%",
+        "isCorrect": false,
+        "explanation": "This expresses interest as a share of profit, which is the inverse relationship stated as a percentage."
+      }
+    ]
+  },
+  {
+    "id": "day-245-question",
+    "day": 245,
+    "question": "Two large competitors agree a merger. The target's shares trade well below the offer price for months afterwards. Why?",
+    "subQuestion": "The offer is in cash at a fixed price.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The market doubts the deal will clear regulatory review",
+        "isCorrect": true,
+        "explanation": "A persistent gap reflects the probability the deal fails. Combining large competitors invites close competition scrutiny."
+      },
+      {
+        "id": "B",
+        "text": "Cash offers are always paid below the agreed price",
+        "isCorrect": false,
+        "explanation": "A fixed cash price is paid in full at completion. The discount reflects completion risk, not a reduced payment."
+      },
+      {
+        "id": "C",
+        "text": "The target's earnings must have fallen",
+        "isCorrect": false,
+        "explanation": "With a fixed cash offer, the target's own results matter far less than whether the deal completes."
+      },
+      {
+        "id": "D",
+        "text": "Shareholders have rejected the deal",
+        "isCorrect": false,
+        "explanation": "The question states the merger was agreed. Rejection would typically collapse the price far further."
+      }
+    ]
+  },
+  {
+    "id": "day-246-question",
+    "day": 246,
+    "question": "What does a forward interest rate represent?",
+    "subQuestion": "Consider what today's yield curve implies.",
+    "options": [
+      {
+        "id": "A",
+        "text": "A guaranteed prediction of future rates",
+        "isCorrect": false,
+        "explanation": "Forward rates frequently differ from what subsequently happens. They are implied, not promised."
+      },
+      {
+        "id": "B",
+        "text": "The rate at which a central bank will lend in future",
+        "isCorrect": false,
+        "explanation": "Policy rates are set by decision. Forward rates are derived from market pricing."
+      },
+      {
+        "id": "C",
+        "text": "The average of historical interest rates",
+        "isCorrect": false,
+        "explanation": "Forward rates are forward-looking, derived from today's curve rather than from past data."
+      },
+      {
+        "id": "D",
+        "text": "The rate for a future period implied by today's spot rates, consistent with no arbitrage",
+        "isCorrect": true,
+        "explanation": "If forward rates differed from the curve's implication, an investor could lock in a riskless gain across maturities."
+      }
+    ]
+  },
+  {
+    "id": "day-247-question",
+    "day": 247,
+    "question": "An employee leaves their pension in the default fund for fifteen years without reviewing it, despite their circumstances changing considerably. What is this?",
+    "subQuestion": "They have never actively considered alternatives.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Regret aversion",
+        "isCorrect": false,
+        "explanation": "Regret aversion involves avoiding decisions that could produce future regret. Here no decision is being considered at all."
+      },
+      {
+        "id": "B",
+        "text": "Status quo bias, defaulting to inaction rather than making an active choice",
+        "isCorrect": true,
+        "explanation": "Inertia is powerful in long-term savings, which is why default fund design matters so much to eventual outcomes."
+      },
+      {
+        "id": "C",
+        "text": "Overconfidence",
+        "isCorrect": false,
+        "explanation": "Overconfidence usually produces excessive activity rather than fifteen years of none."
+      },
+      {
+        "id": "D",
+        "text": "Herd behaviour",
+        "isCorrect": false,
+        "explanation": "Herding means following others' actions. This employee is following no one, simply not acting."
+      }
+    ]
+  },
+  {
+    "id": "day-248-question",
+    "day": 248,
+    "question": "A portfolio holds 80% in a low-cost global index fund and 20% across three specialist strategies. What is this structure called?",
+    "subQuestion": "Consider the role each part plays.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Risk parity",
+        "isCorrect": false,
+        "explanation": "Risk parity equalises risk contributions. This structure is defined by the role of each sleeve, not by risk balancing."
+      },
+      {
+        "id": "B",
+        "text": "Liability-driven investing",
+        "isCorrect": false,
+        "explanation": "LDI shapes assets around future obligations, which is not what the allocation described is doing."
+      },
+      {
+        "id": "C",
+        "text": "Core-satellite, combining broad low-cost exposure with targeted active positions",
+        "isCorrect": true,
+        "explanation": "The core delivers market exposure cheaply, while the satellites concentrate the fee budget and active risk where conviction is highest."
+      },
+      {
+        "id": "D",
+        "text": "A glide path",
+        "isCorrect": false,
+        "explanation": "A glide path changes allocation over time towards a target date. This describes a structure at a point in time."
+      }
+    ]
+  },
+  {
+    "id": "day-249-question",
+    "day": 249,
+    "question": "An investor holds a company's bonds and buys credit default swap protection on the same issuer. What have they done?",
+    "subQuestion": "The protection matches the bond holding.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Largely offset the credit risk, while retaining interest rate exposure and taking on CDS counterparty risk",
+        "isCorrect": true,
+        "explanation": "The swap compensates for credit loss, but the bond's price still moves with yields and the protection seller must itself perform."
+      },
+      {
+        "id": "B",
+        "text": "Doubled their exposure to the issuer",
+        "isCorrect": false,
+        "explanation": "Buying protection offsets the credit exposure rather than adding to it. Selling protection would increase it."
+      },
+      {
+        "id": "C",
+        "text": "Removed all risk from the position",
+        "isCorrect": false,
+        "explanation": "Interest rate risk, basis risk and counterparty risk all remain."
+      },
+      {
+        "id": "D",
+        "text": "Converted the bonds into equity",
+        "isCorrect": false,
+        "explanation": "A CDS is a derivative contract on credit events. It does not change the instrument held."
+      }
+    ]
+  },
+  {
+    "id": "day-250-question",
+    "day": 250,
+    "question": "An analyst values a company in an emerging market using the same discount rate they apply to a comparable US business. What is the main concern?",
+    "subQuestion": "The businesses are operationally similar.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nothing, since similar businesses should carry similar rates",
+        "isCorrect": false,
+        "explanation": "Operational similarity does not equalise the risks attached to where the business operates."
+      },
+      {
+        "id": "B",
+        "text": "The emerging market company should always be valued more highly for its growth",
+        "isCorrect": false,
+        "explanation": "Faster growth may be real, but it does not remove the additional risks that the discount rate must reflect."
+      },
+      {
+        "id": "C",
+        "text": "Discount rates should never differ between countries",
+        "isCorrect": false,
+        "explanation": "Differing risk-free rates, inflation and country risk routinely justify different rates."
+      },
+      {
+        "id": "D",
+        "text": "It ignores country risk, currency risk and differences in the local risk-free rate",
+        "isCorrect": true,
+        "explanation": "Political, legal and currency factors affect required returns, so applying an unadjusted developed-market rate overstates the valuation."
+      }
+    ]
   }
 ]
 
